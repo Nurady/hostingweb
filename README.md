@@ -1,12 +1,13 @@
 ## Tech Stack/Teknologi
 - Laravel 8
-- Bootsrtrap 5
+- Bootstrap 5
 
 ## Template 
 - https://themewagon.com/themes/free-bootstrap-5-html5-web-hosting-template-greenhost/
 
 ## Package
 - Laravel UI 3.x
+- Laravel mix
 
 ## Setup Project
 - Instalasi Composer
