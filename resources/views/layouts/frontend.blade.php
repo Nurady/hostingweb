@@ -3,55 +3,6 @@
 <head>
     @include('includes.meta')
     @include('includes.style')
-
-    <style>
-        .promo-link {
-            display: inline-block;
-            animation: promo-color 4s cubic-bezier(.68,-.6,.32,1.6) infinite !important;
-            color: #000 !important;
-        }
-
-        @keyframes promo-link {
-            0% {
-                opacity: 0;
-                transform: translateX(0px)
-            }
-
-            50% {
-                opacity: 1;
-                transform: translateX(4px);
-            }
-
-            100% {
-                opacity: 0;
-                transform: translateX(0px)
-            }
-        }
-
-        @keyframes promo-color {
-            0% {
-                color: #000 !important;
-                opacity: 1;
-                transform: translateX(0px);
-            }
-
-            50% {
-                color: #ff6d0b !important;
-                opacity: 1;
-                transform: translateX(4px);
-                text-shadow: 
-                    0 0.125em 0 #ff6d0b,
-                    0 -0.125em 0 #ff6d0b;
-            }
-
-            100% {
-                color: #000 !important;
-                opacity: 1;
-                transform: translateX(0px);
-                font-weight : bold !important;
-            }
-        }
-    </style>
 </head>
 
 <body>
