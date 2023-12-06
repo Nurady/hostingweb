@@ -3,7 +3,7 @@
 @section('title', '	Qwords.com: Cloud Web Hosting Indonesia Akses Cepat Aman')
 
 @section('content')
-    <!-- Domain -->
+    <!-- Cari Domain -->
     <div class="container-xxl domain mb-5 pt-5 pb-5" style="margin-top: 90px;">
         <div class="container px-lg-5">
             <div class="row justify-content-center">
@@ -57,8 +57,8 @@
             </div>
         </div>
     </div>
-    <!-- Domain End -->
 
+    {{-- Layanan utama --}}
     <div class="service container-xxl py-5">
         <div class="container px-lg-5">
             <div class="section-title position-relative text-center mx-auto mb-5 pb-4 wow fadeInUp" data-wow-delay="0.1s">
@@ -79,7 +79,7 @@
                             <h3 class="mb-3">
                                 Rp. 14.500
                             </h3>
-                            <a class="btn btn-primary px-4 py-2" href="#">
+                            <a class="btn btn-primary px-4 py-2" href="https://portal.qwords.com/orderv10/orderhosting?pid=528&billingcycle=annually">
                                 Pesan Sekarang
                             </a>
                         </div>
@@ -130,7 +130,7 @@
                             <h3 class="mb-3">
                                 Rp. 89.900
                             </h3>
-                            <a class="btn btn-primary px-4 py-2" href="#">
+                            <a class="btn btn-primary px-4 py-2" href="https://portal.qwords.com/orderv10/orderhosting?pid=392&billingcycle=&promocode=FRSTTMESGN">
                                 Pesan Sekarang
                             </a>
                         </div>
@@ -181,7 +181,7 @@
                             <h3 class="mb-3">
                                 Rp. 79.000
                             </h3>
-                            <a class="btn btn-primary px-4 py-2" href="#">
+                            <a class="btn btn-primary px-4 py-2" href="https://portal.qwords.com/orderv10/orderhosting?pid=596&billingcycle=annually">
                                 Pesan Sekarang
                             </a>
                         </div>
@@ -232,7 +232,7 @@
                             <h3 class="mb-3">
                                 Rp. 75.000
                             </h3>
-                            <a class="btn btn-primary px-4 py-2" href="#">
+                            <a class="btn btn-primary px-4 py-2" href="https://portal.qwords.com/orderv10/ordervps?pid=634&billingcycle=annually">
                                 Pesan Sekarang
                             </a>
                         </div>
@@ -276,6 +276,7 @@
         </div>
     </div>
 
+    {{-- Layanan Lain --}}
     <div class="service container-xxl py-5">
         <div class="container px-lg-5">
             <div class="section-title position-relative text-center mx-auto mb-5 pb-4 wow fadeInUp" data-wow-delay="0.1s">
@@ -306,7 +307,7 @@
                                     /tahun
                                 </span>
                             </h3>
-                            <a class="btn btn-primary px-4 py-2 mt-4 w-100" href="#">
+                            <a class="btn btn-primary px-4 py-2 mt-4 w-100" href="https://qwords.com/v2/secured-sockets-layer-certificate/?_gl=1%2A87kryz%2A_gcl_au%2AMTc1MjQyNTI4MC4xNzAxODQzODA3&_ga=2.2238128.1021700938.1701843808-1812367761.1701843808">
                                 Pesan Sekarang
                             </a>
                         </div>
@@ -331,7 +332,7 @@
                                     /tahun
                                 </span>
                             </h3>
-                            <a class="btn btn-primary px-4 py-2 mt-4 w-100" href="#">
+                            <a class="btn btn-primary px-4 py-2 mt-4 w-100" href="https://qwords.com/v2/dedicated-server/dedicated-box/?_gl=1*13zm0s9*_gcl_au*MTc1MjQyNTI4MC4xNzAxODQzODA3&_ga=2.6778802.1021700938.1701843808-1812367761.1701843808">
                                 Pesan Sekarang
                             </a>
                         </div>
@@ -356,7 +357,7 @@
                                     /tahun
                                 </span>
                             </h3>
-                            <a class="btn btn-primary px-4 py-2 mt-3 w-100" href="#">
+                            <a class="btn btn-primary px-4 py-2 mt-3 w-100" href="https://qwords.com/v2/dedicated-server/colocation-server/?_gl=1*13zm0s9*_gcl_au*MTc1MjQyNTI4MC4xNzAxODQzODA3&_ga=2.6778802.1021700938.1701843808-1812367761.1701843808">
                                 Pesan Sekarang
                             </a>
                         </div>
@@ -536,6 +537,7 @@
         </div>
     </div>
 
+    {{-- Iklan --}}
     <div class="iklan container-xxl py-5">
         <div class="container">
             <div class="card p-5 border-0">
@@ -546,13 +548,16 @@
                     <div class="col-md-8 mb-2">
                         <h3><span>Bikin website impian</span> dengan mudah disini hanya 1jutaan</h3>
                         <p>Bikin website impian include paket hosting Indonesia terbaik hanya 1 jutaan Jasa pembuatan website profesional untuk Perusahaan, Bisnis & UKM. Bikin Website Impian dengan mudah di sini, desain website elegan dan mudah dikelola</p>
-                        <button class="btn btn-primary">Lihat Selengkapnya</button>
+                        <a href="https://bikin.website/" class="btn btn-primary">
+                            Lihat Selengkapnya
+                        </a>
                     </div>
                 </div>
             </div>
         </div>
     </div>
 
+    {{-- Garansi --}}
     <div class="commitment container-xxl py-5">
         <div class="container px-lg-5">
             <div class="position-relative text-center mx-auto mb-3 pb-4 wow fadeInUp" data-wow-delay="0.1s">
@@ -589,6 +594,7 @@
         </div>
     </div>
 
+    {{-- Partner --}}
     <div class="commitment container-xxl py-5">
         <div class="container px-lg-5">
             <div class="position-relative text-center mx-auto mb-3 pb-4 wow fadeInUp" data-wow-delay="0.1s">
@@ -614,7 +620,7 @@
                 </div>
             </div>
             <div class="mt-4 text-center">
-                <a class="other" href="#">Lihat Semua Partner</a>
+                <a class="other" href="https://qwords.com/v2/about-qwordscom/partner/">Lihat Semua Partner</a>
                 <span>
                     <img style="height: 20px !important; width: 20px !important;" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/Right.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/Right.webp">
                 </span>
@@ -622,6 +628,7 @@
         </div>
     </div>
 
+    {{-- Garansi --}}
     <div class="mt-5 quarantee p-5">
         <div class="container-fluid">
             <div class="row align-items-center">
@@ -632,6 +639,43 @@
                     <h3>Garansi 30 Hari <span>Uang Kembali</span></h3>
                     <p>Untuk menjaga kepuasan pelanggan, kami memberikan garansi uang kembali yang berlaku hingga 30 hari setelah hosting aktif.</p>
                 </div>
+            </div>
+        </div>
+    </div>
+
+    {{-- Liputan --}}
+    <div class="commitment container-xxl py-5">
+        <div class="container px-lg-5">
+            <div class="position-relative text-center mx-auto mb-3 pb-4 wow fadeInUp" data-wow-delay="0.1s">
+                <h1>
+                    Diliput oleh
+                </h1>
+            </div>
+            <div class="row wow fadeInUp justify-content-center">
+                <div class="col-md-3 mb-2">
+                    <img class="w-100" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/liputan/Detikcom.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/liputan/Detikcom.webp">
+                </div>
+                <div class="col-md-3 mb-2">
+                    <img class="w-100" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/liputan/Liputan6.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/liputan/Liputan6.webp">
+                </div>
+                <div class="col-md-3 mb-2">
+                    <img class="w-100" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/liputan/TribunJogja.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/liputan/TribunJogja.webp">
+                </div>
+                <div class="col-md-3 mb-2">
+                    <img class="w-100" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/liputan/antara.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/liputan/antara.webp">
+                </div>
+                <div class="col-md-3 mb-2">
+                    <img class="w-100" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/liputan/RM.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/liputan/RM.webp">
+                </div>
+                <div class="col-md-3 mb-2">
+                    <img class="w-100" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/liputan/KoranBernas.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/liputan/KoranBernas.webp">
+                </div>
+            </div>
+            <div class="mt-4 text-center">
+                <a class="other" href="https://qwords.com/v2/media-publication/?_gl=1*ymnyck*_gcl_au*MTc1MjQyNTI4MC4xNzAxODQzODA3&_ga=2.213107476.1021700938.1701843808-1812367761.1701843808">Lihat Semua Liputan</a>
+                <span>
+                    <img style="height: 20px !important; width: 20px !important;" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/Right.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/Right.webp">
+                </span>
             </div>
         </div>
     </div>
