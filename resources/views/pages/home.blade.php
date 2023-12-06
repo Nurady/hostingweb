@@ -1,6 +1,6 @@
 @extends('layouts.frontend')
 
-@section('name', 'Beranda')
+@section('title', 'Beranda')
 
 @section('content')
      <!-- Domain Search Start -->
