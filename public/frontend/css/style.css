@@ -712,4 +712,36 @@ select[type="color"]:focus,
     font-size: 0.95rem !important ;
 }
 
+.iklan .card {
+    background-color: #feecdd;
+    height: auto;
+    border-radius: 60px;
+}
+
+.iklan .card h3 {
+    font-size: clamp(1.5rem,8vw,2.688rem) !important;
+    font-weight: 800 !important;
+}
+
+.iklan .card h3 span {
+    color: #ff6d0b !important;
+}
+
+.iklan .card p {
+    color: black !important;
+}
+
+.iklan .card .btn {
+    background-color: #ff6d0b !important;
+    font-weight: 700 !important;
+    color: #fff !important;
+    border: none !important;
+    padding: 10px 25px 10px 25px !important;
+    border-radius: 20px !important;
+}
+
+.iklan .card .btn:hover {
+    background-color: #cf3b21 !important;
+}
+
 
