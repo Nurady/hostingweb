@@ -6,7 +6,7 @@
         <span class="fa fa-bars"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarCollapse">
-        <div class="navbar-nav ms-auto py-0">
+        <div class="navbar-nav me-auto py-0">
             <div class="nav-item dropdown">
                 <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Cloud Hosting</a>
             </div>
@@ -25,7 +25,7 @@
             <div class="nav-item dropdown">
                 <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Internet Access</a>
             </div>
-            <li class="nav-item">
+            <div class="nav-item">
                 <a 
                     class="nav-link promo-link" 
                     style="margin-top: 1px !important;" 
@@ -33,9 +33,9 @@
                 >
                     Promo
                 </a>
-            </li>
+            </div>
         </div>
 
-        <a href="" class="btn btn-secondary py-2 px-4 ms-3">Register</a>
+        <a href="#" class="btn btn-secondary py-2 px-4 ms-3 btn-login">Log In</a>
     </div>
 </nav>

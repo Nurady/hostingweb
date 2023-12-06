@@ -435,6 +435,7 @@ h6,
         color: #ff6d0b !important;
         opacity: 1;
         transform: translateX(4px);
+        font-weight : bold !important;
         text-shadow: 
             0 0.125em 0 #ff6d0b,
             0 -0.125em 0 #ff6d0b;
@@ -446,4 +447,28 @@ h6,
         transform: translateX(0px);
         font-weight : bold !important;
     }
+}
+
+.btn-login {
+    background-color: #FFF !important;
+    border: none;
+    color: #FF6d0b !important;
+    font-weight: bold !important;
+}
+
+.btn-login:hover {
+    background-color: #FF6d0b !important;
+    border: none;
+    color: #FFF !important;
+    font-weight: bold !important;
+}
+
+.btn-hero {
+    background-color: #FF6d0b !important;
+    border: none;
+}
+
+.btn-hero:hover {
+    background-color: #cf3b21 !important;
+    border: none;
 }

@@ -9,7 +9,7 @@
                     <span>$2.49</span>
                     <small class="align-bottom fw-normal" style="font-size: 15px; line-height: 33px;">/ Mo</small>
                 </h1>
-                <a href="" class="btn btn-secondary py-sm-3 px-sm-5 me-3 animated slideInLeft">Get Started Now</a>
+                <a href="#" class="btn-hero btn btn-secondary py-sm-3 px-sm-5 me-3 animated slideInLeft">Get Started Now</a>
             </div>
             <div class="col-lg-6 text-center text-lg-start">
                 <img class="img-fluid animated zoomIn" src="{{ asset('frontend/img/hero.png') }}" alt="">
