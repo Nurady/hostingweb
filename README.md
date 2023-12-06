@@ -5,8 +5,17 @@
 ## Template 
 - https://themewagon.com/themes/free-bootstrap-5-html5-web-hosting-template-greenhost/
 
+## Package
+- Laravel UI 3.x
 
-## About Laravel
+## Setup Project
+- Instalasi Composer
+- Instalasi node.js
+- Instalasi XAMPP
+- Instalasi VS Code
+- Instalasi Power Shell
+- composer create-project laravel/laravel:^8.0 example-app
+
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
