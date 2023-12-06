@@ -1,4 +1,4 @@
-## About Laravel
+## Tech Stack/Teknologi
 - Laravel 8
 - Bootsrtrap 5
 
