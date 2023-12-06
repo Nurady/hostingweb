@@ -59,7 +59,6 @@
     </div>
     <!-- Domain End -->
 
-
     <!-- About Start -->
     {{-- <div class="container-xxl py-5">
         <div class="container px-lg-5">
@@ -101,8 +100,6 @@
     </div> --}}
     <!-- About End -->
 
-
-    <!-- Pricing Start -->
     <div class="service container-xxl py-5">
         <div class="container px-lg-5">
             <div class="section-title position-relative text-center mx-auto mb-5 pb-4 wow fadeInUp" data-wow-delay="0.1s">
@@ -319,16 +316,102 @@
             </div>
         </div>
     </div>
-    <!-- Pricing End -->
 
-
-    <!-- Comparison Start -->
-    <div class="container-xxl py-5">
+    <div class="service container-xxl py-5">
         <div class="container px-lg-5">
-            <div class="section-title position-relative text-center mx-auto mb-5 pb-4 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
-                <h1 class="mb-3">Shared VS Dedicated Server</h1>
-                <p class="mb-1">Vero justo sed sed vero clita amet. Et justo vero sea diam elitr amet ipsum eos
-                    ipsum clita duo sed. Sed vero sea diam erat vero elitr sit clita.</p>
+            <div class="section-title position-relative text-center mx-auto mb-5 pb-4 wow fadeInUp" data-wow-delay="0.1s">
+                <h1 class="mb-3">
+                    Lihat Juga Layanan Kami Yang Lain
+                </h1>
+                <p class="mb-1">
+                    Optimalkan performa website bisnis Anda dengan berbagai layanan berkualitas dari Qwords.
+                </p>
+            </div>
+            <div class="row gy-5 gx-4">
+                <div class="col-md-4 wow fadeInUp" data-wow-delay="0.2s">
+                    <div class="position-relative shadow rounded border-top border-5">
+                        <div class="text-center border-bottom p-2">                        
+                            <img src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/smallicons/ssl.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/smallicons/ssl.webp">                    
+                            <h4 class="fw-bold mt-2">SSL</h4>
+                        </div>
+                        <div class="text-center border-bottom p-4">
+                            <p class="text-muted mb-1">Jadikan website Anda lebih terpercaya dan disukai oleh search engine dengan menggunakan SSL Certificate.</p>
+                            <p class="mb-3 mt-3">
+                                Mulai Dari
+                            </p>
+                            <h3>
+                                <span style="color: #ff6d0b; ">
+                                    Rp. 112.000
+                                </span>
+                                <span class="text-muted" style="font-size: 20px !important;">
+                                    /tahun
+                                </span>
+                            </h3>
+                            <a class="btn btn-primary px-4 py-2 mt-4 w-100" href="#">
+                                Pesan Sekarang
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 wow fadeInUp" data-wow-delay="0.2s">
+                    <div class="position-relative shadow rounded border-top border-5">
+                        <div class="text-center border-bottom p-2">                        
+                            <img src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/smallicons/dbstack.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/smallicons/dbstack.webp">                    
+                            <h4 class="fw-bold mt-2">Dedicated Server</h4>
+                        </div>
+                        <div class="text-center border-bottom p-4">
+                            <p class="text-muted mb-1">Nikmati kelola Dedicated Server sendiri dengan akses remote dari seluruh dunia tanpa batas.</p>
+                            <p class="mb-3 mt-3">
+                                Mulai Dari
+                            </p>
+                            <h3>
+                                <span style="color: #ff6d0b; ">
+                                    Rp. 499.000
+                                </span>
+                                <span class="text-muted" style="font-size: 20px !important;">
+                                    /tahun
+                                </span>
+                            </h3>
+                            <a class="btn btn-primary px-4 py-2 mt-4 w-100" href="#">
+                                Pesan Sekarang
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 wow fadeInUp" data-wow-delay="0.2s">
+                    <div class="position-relative shadow rounded border-top border-5">
+                        <div class="text-center border-bottom p-2">                        
+                            <img src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/smallicons/disk.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/smallicons/disk.webp">                    
+                            <h4 class="fw-bold mt-2">Colocation Server</h4>
+                        </div>
+                        <div class="text-center border-bottom p-3">
+                            <p class="text-muted mb-1">Akses cepat dari seluruh dunia dengan fasilitas 24x7 full monitoring dengan cooling system terbaik serta fire extinguisher.</p>
+                            <p class="mb-3 mt-3">
+                                Mulai Dari
+                            </p>
+                            <h3>
+                                <span style="color: #ff6d0b; ">
+                                    Rp. 500.000
+                                </span>
+                                <span class="text-muted" style="font-size: 20px !important;">
+                                    /tahun
+                                </span>
+                            </h3>
+                            <a class="btn btn-primary px-4 py-2 mt-3 w-100" href="#">
+                                Pesan Sekarang
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    {{-- <div class="container-xxl py-5">
+        <div class="container px-lg-5">
+            <div class="section-title position-relative text-center mx-auto mb-5 pb-4 wow fadeInUp" data-wow-delay="0.1s">
+                <h1 class="mb-3">Lihat Juga Layanan Kami Yang Lain</h1>
+                <p class="mb-1">Optimalkan performa website bisnis Anda dengan berbagai layanan berkualitas dari Qwords.</p>
             </div>
             <div class="row g-5 comparison position-relative">
                 <div class="col-lg-6 pe-lg-5">
@@ -387,8 +470,7 @@
                 </div>
             </div>
         </div>
-    </div>
-    <!-- Comparison Start -->
+    </div> --}}
 
 
     <!-- Testimonial Start -->
