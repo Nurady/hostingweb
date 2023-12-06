@@ -7,19 +7,33 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarCollapse">
         <div class="navbar-nav ms-auto py-0">
-            <a href="index.html" class="nav-item nav-link active">Home</a>
-            <a href="about.html" class="nav-item nav-link">About</a>
-            <a href="domain.html" class="nav-item nav-link">Domain</a>
-            <a href="hosting.html" class="nav-item nav-link">Hosting</a>
             <div class="nav-item dropdown">
-                <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</a>
-                <div class="dropdown-menu m-0">
-                    <a href="team.html" class="dropdown-item">Our Team</a>
-                    <a href="testimonial.html" class="dropdown-item">Testimonial</a>
-                    <a href="comparison.html" class="dropdown-item">Comparison</a>
-                </div>
+                <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Cloud Hosting</a>
             </div>
-            <a href="contact.html" class="nav-item nav-link">Contact</a>
+            <div class="nav-item dropdown">
+                <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Server</a>
+            </div>
+            <div class="nav-item dropdown">
+                <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Domain</a>
+            </div>
+            <div class="nav-item dropdown">
+                <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Email Suite</a>
+            </div>
+            <div class="nav-item dropdown">
+                <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Services</a>
+            </div>
+            <div class="nav-item dropdown">
+                <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Internet Access</a>
+            </div>
+            <li class="nav-item">
+                <a 
+                    class="nav-link promo-link" 
+                    style="margin-top: 1px !important;" 
+                    href="https://qwords.com/v2/promotion"
+                >
+                    Promo
+                </a>
+            </li>
         </div>
 
         <a href="" class="btn btn-secondary py-2 px-4 ms-3">Register</a>

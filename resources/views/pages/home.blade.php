@@ -1,6 +1,6 @@
 @extends('layouts.frontend')
 
-@section('title', 'Beranda')
+@section('title', '	Qwords.com: Cloud Web Hosting Indonesia Akses Cepat Aman')
 
 @section('content')
      <!-- Domain Search Start -->
