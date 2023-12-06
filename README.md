@@ -6,7 +6,7 @@
 - https://themewagon.com/themes/free-bootstrap-5-html5-web-hosting-template-greenhost/
 
 ## Package
-- Laravel UI 3.x
+- Laravel UI 3.x (https://github.com/laravel/ui/tree/3.x)
 - Laravel mix
 
 ## Setup Project
@@ -15,6 +15,7 @@
 - Instalasi XAMPP
 - Instalasi VS Code
 - Instalasi Power Shell
+- PHP 8
 - composer create-project laravel/laravel:^8.0 example-app
 
 
