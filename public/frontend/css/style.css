@@ -496,3 +496,95 @@ h6,
     color: #FF6d0b !important;
     text-shadow: -0.5px 0 white, 0 0.5px white, 0.5px 0 white, 0 -0.5px white;
 }
+
+.domain {
+    background-color: #FF6d0b !important;
+}
+
+.search-domain input {
+    padding: 1.125rem !important;
+    border-radius: 20px !important;
+    padding: 1.125rem;
+    border-radius: 20px;
+}
+
+.search-domain .form-control,.search-domain .form-select {
+    padding: 1.125rem !important;
+    border-radius: 20px !important;
+    padding: 1.125rem;
+    border-radius: 20px;
+}
+
+.search-domain button {
+    padding: 1.125rem 2rem 1.125rem 2rem !important;
+    border-radius: 20px !important;
+    border-radius: 32px !important;
+    background-color: #13151b;
+    font-size: 1.25rem;
+    font-weight: 700;
+    border: none;
+    color: #fff;
+}
+
+.search-domain button:hover {
+    background-color: #212121;
+    border: none;
+}
+
+input:focus,
+input[type="text"]:focus,
+input[type="password"]:focus,
+input[type="datetime"]:focus,
+input[type="datetime-local"]:focus,
+input[type="date"]:focus,
+input[type="month"]:focus,
+input[type="time"]:focus,
+input[type="week"]:focus,
+input[type="number"]:focus,
+input[type="email"]:focus,
+input[type="url"]:focus,
+input[type="search"]:focus,
+input[type="tel"]:focus,
+input[type="color"]:focus,
+.uneditable-input:focus {   
+  border-color: rgba(126, 239, 104, 0.8);
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset, 0 0 8px rgba(126, 239, 104, 0.6);
+  outline: 0 none;
+}
+
+select:focus,
+select[type="text"]:focus,
+select[type="password"]:focus,
+select[type="datetime"]:focus,
+select[type="datetime-local"]:focus,
+select[type="date"]:focus,
+select[type="month"]:focus,
+select[type="time"]:focus,
+select[type="week"]:focus,
+select[type="number"]:focus,
+select[type="email"]:focus,
+select[type="url"]:focus,
+select[type="search"]:focus,
+select[type="tel"]:focus,
+select[type="color"]:focus,
+.uneditable-select:focus {   
+  border-color: rgba(126, 239, 104, 0.8);
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset, 0 0 8px rgba(126, 239, 104, 0.6);
+  outline: 0 none;
+}
+
+.container-xxl .section-title h1 span {
+    color: #FF6d0b !important;
+}
+
+.service .btn {
+    background-color: #ff6d0b; 
+    font-weight: 700; 
+    color: #fff;
+    border: none;
+    border-radius: 2rem;
+}
+
+.service .btn:hover {
+    background-color: #cf3b21 !important;
+}

@@ -3,54 +3,65 @@
 @section('title', '	Qwords.com: Cloud Web Hosting Indonesia Akses Cepat Aman')
 
 @section('content')
-     <!-- Domain Search Start -->
-     <div class="container-xxl domain mb-5" style="margin-top: 90px;">
+    <!-- Domain -->
+    <div class="container-xxl domain mb-5 pt-5 pb-5" style="margin-top: 90px;">
         <div class="container px-lg-5">
             <div class="row justify-content-center">
-                <div class="col-lg-10">
+                <div class="col-lg-12">
                     <div class="section-title position-relative text-center mx-auto mb-4 pb-4 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
-                        <h1 class="mb-3">Search Your Domain</h1>
-                        <p class="mb-1">Vero justo sed sed vero clita amet. Et justo vero sea diam elitr amet ipsum eos ipsum clita duo sed. Sed vero sea diam erat vero elitr sit clita.</p>
+                        <h1 class="mb-3 text-white">
+                            Cari Nama Domainmu
+                        </h1>
+                        <p class="mb-1 text-white font-weight-bold">
+                            Nama Domain digunakan untuk mempermudah pengunjung menuju ke situs Anda. Pilih nama domain yang paling mencerminkan bisnis, produk, atau layanan Anda.
+                        </p>
                     </div>
-                    <div class="position-relative w-100 my-3 wow fadeInUp" data-wow-delay="0.3s">
-                        <input class="form-control bg-transparent w-100 py-3 ps-4 pe-5" type="text" placeholder="Enter your domain name">
-                        <button type="button" class="btn btn-primary py-2 px-3 position-absolute top-0 end-0 mt-2 me-2">Search</button>
+                    <div class="row text-center search-domain">
+                        <div class="col-md-8">
+                            <div class="form-group">
+                                <input class="form-control w-100 py-3 ps-4 pe-5" type="text" placeholder="Cari Nama Domain Anda">
+                            </div>
+                        </div>
+                        <div class="col-md-2">
+                            <div class="form-group">
+                                <select class="form-select" aria-label="Default select example">
+                                    <option value="#">.id</option>
+                                    <option value="#">.com</option>
+                                    <option value="#">.org</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="col-md-2">
+                            <button type="button" class="btn btn-primary">Search</button>
+                        </div>
                     </div>
                     <div class="row g-3 wow fadeInUp" data-wow-delay="0.5s">
-                        <div class="col-lg-2 col-md-3 col-sm-4 col-6 text-center">
-                            <h5 class="fw-bold text-primary mb-1">.com</h5>
-                            <p class="mb-0">$9.99/year</p>
-                        </div>
-                        <div class="col-lg-2 col-md-3 col-sm-4 col-6 text-center">
-                            <h5 class="fw-bold text-primary mb-1">.net</h5>
-                            <p class="mb-0">$9.99/year</p>
-                        </div>
-                        <div class="col-lg-2 col-md-3 col-sm-4 col-6 text-center">
-                            <h5 class="fw-bold text-primary mb-1">.org</h5>
-                            <p class="mb-0">$9.99/year</p>
-                        </div>
-                        <div class="col-lg-2 col-md-3 col-sm-4 col-6 text-center">
-                            <h5 class="fw-bold text-primary mb-1">.us</h5>
-                            <p class="mb-0">$9.99/year</p>
-                        </div>
-                        <div class="col-lg-2 col-md-3 col-sm-4 col-6 text-center">
-                            <h5 class="fw-bold text-primary mb-1">.eu</h5>
-                            <p class="mb-0">$9.99/year</p>
-                        </div>
-                        <div class="col-lg-2 col-md-3 col-sm-4 col-6 text-center">
-                            <h5 class="fw-bold text-primary mb-1">.co.uk</h5>
-                            <p class="mb-0">$9.99/year</p>
+                        <div class="col-md-10 text-center">
+                            <div class="row mt-4">
+                                <div class="col-lg-4 col-md-4 col-sm-12 text-center">
+                                    <p class="fw-bold text-primary mb-1 text-white">.com</p>
+                                    <h4 class="mb-0 text-white">Rp. 165.000</h4>
+                                </div>
+                                <div class="col-lg-4 col-md-4 col-sm-12 text-center">
+                                    <p class="fw-bold text-primary mb-1 text-white">.id</p>
+                                    <h4 class="mb-0 text-white">Rp. 225.000</h4>
+                                </div>
+                                <div class="col-lg-4 col-md-4 col-sm-12 text-center">
+                                    <p class="fw-bold text-primary mb-1 text-white">.info</p>
+                                    <h4 class="mb-0 text-white">Rp. 225.000</h4>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <!-- Domain Search End -->
+    <!-- Domain End -->
 
 
     <!-- About Start -->
-    <div class="container-xxl py-5">
+    {{-- <div class="container-xxl py-5">
         <div class="container px-lg-5">
             <div class="row g-5 align-items-center">
                 <div class="col-lg-7 wow fadeInUp" data-wow-delay="0.1s">
@@ -87,93 +98,221 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> --}}
     <!-- About End -->
 
 
     <!-- Pricing Start -->
-    <div class="container-xxl py-5">
+    <div class="service container-xxl py-5">
         <div class="container px-lg-5">
-            <div class="section-title position-relative text-center mx-auto mb-5 pb-4 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
-                <h1 class="mb-3">Our Hosting Plans</h1>
-                <p class="mb-1">Vero justo sed sed vero clita amet. Et justo vero sea diam elitr amet ipsum eos ipsum clita duo sed. Sed vero sea diam erat vero elitr sit clita.</p>
+            <div class="section-title position-relative text-center mx-auto mb-5 pb-4 wow fadeInUp" data-wow-delay="0.1s">
+                <h1 class="mb-3">
+                    Cloud Hosting Indonesia <span>Diskon Hingga 50%</span>
+                </h1>
+                <p class="mb-1">Layanan cloud hosting indonesia terbaik dengan teknologi andal untuk website anda.</p>
             </div>
             <div class="row gy-5 gx-4">
-                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
-                    <div class="position-relative shadow rounded border-top border-5 border-primary">
-                        <div class="d-flex align-items-center justify-content-center position-absolute top-0 start-50 translate-middle bg-primary rounded-circle" style="width: 45px; height: 45px; margin-top: -3px;">
-                            <i class="fa fa-share-alt text-white"></i>
-                        </div>
+                <div class="col-md-3 wow fadeInUp" data-wow-delay="0.2s">
+                    <div class="position-relative shadow rounded border-top border-5">
                         <div class="text-center border-bottom p-4 pt-5">
-                            <h4 class="fw-bold">Share Hosting</h4>
-                            <p class="mb-0">Eirmod erat dolor amet est clita lorem erat justo rebum elitr eos</p>
+                            <p class="mb-0">Value Cloud Hosting</p>
+                            <h4 class="fw-bold">VCH1</h4>
                         </div>
                         <div class="text-center border-bottom p-4">
-                            <p class="text-primary mb-1">Latest Offer - <strong>Save 30%</strong></p>
-                            <h1 class="mb-3">
-                                <small class="align-top" style="font-size: 22px; line-height: 45px;">$</small>2.49<small
-                                    class="align-bottom" style="font-size: 16px; line-height: 40px;">/ Month</small>
-                            </h1>
-                            <a class="btn btn-primary px-4 py-2" href="">Buy Now</a>
+                            <p class="text-muted mb-1"><del>Rp 24.500</del></p>
+                            <h3 class="mb-3">
+                                Rp. 14.500
+                            </h3>
+                            <a class="btn btn-primary px-4 py-2" href="#">
+                                Pesan Sekarang
+                            </a>
                         </div>
                         <div class="p-4">
-                            <p class="border-bottom pb-3"><i class="fa fa-check text-primary me-3"></i>100 GB Disk Space</p>
-                            <p class="border-bottom pb-3"><i class="fa fa-check text-primary me-3"></i>Unlimited Bandwith</p>
-                            <p class="border-bottom pb-3"><i class="fa fa-check text-primary me-3"></i>Upgrade to Positive SSL</p>
-                            <p class="border-bottom pb-3"><i class="fa fa-check text-primary me-3"></i>Automatic Malware Removal</p>
-                            <p class="mb-0"><i class="fa fa-check text-primary me-3"></i>30 Days Money Back Guarantee</p>
+                            <div class="row mb-3 justify-content-between">
+                                <div class="col-md-2">
+                                    <img src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/smallicons/disk.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/smallicons/disk.webp" style="vertical-align: middle !important;">
+                                </div>
+                                <div class="col-md-9 align-middle">
+                                    Disk <br> <span style="font-weight: bold !important;">3 GB</span>
+                                </div>
+                            </div>
+                            <div class="row mb-3 justify-content-between">
+                                <div class="col-md-2">
+                                    <img src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/smallicons/bandwidth.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/smallicons/bandwidth.webp" style="vertical-align: middle !important;">
+                                </div>
+                                <div class="col-md-9 align-middle">
+                                    Unlimited <br> <span style="font-weight: bold !important;">Bandwith</span>
+                                </div>
+                            </div>
+                            <div class="row mb-3 justify-content-between">
+                                <div class="col-md-2">
+                                    <img src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/smallicons/cpu.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/smallicons/cpu.webp" style="vertical-align: middle !important;">
+                                </div>
+                                <div class="col-md-9 align-middle">
+                                    Core CPU <br> <span style="font-weight: bold !important;">0.5 Core</span>
+                                </div>
+                            </div>
+                            <div class="row mb-3 justify-content-between">
+                                <div class="col-md-2">
+                                    <img src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/smallicons/addon.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/smallicons/addon.webp" style="vertical-align: middle !important;">
+                                </div>
+                                <div class="col-md-9 align-middle">
+                                    Addon / parked domain <br> <span style="font-weight: bold !important;">No</span>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.4s">
-                    <div class="position-relative shadow rounded border-top border-5 border-secondary">
-                        <div class="d-flex align-items-center justify-content-center position-absolute top-0 start-50 translate-middle bg-secondary rounded-circle" style="width: 45px; height: 45px; margin-top: -3px;">
-                            <i class="fa fa-server text-white"></i>
-                        </div>
+                <div class="col-md-3 wow fadeInUp" data-wow-delay="0.2s">
+                    <div class="position-relative shadow rounded border-top border-5">
                         <div class="text-center border-bottom p-4 pt-5">
-                            <h4 class="fw-bold">VPS Hosting</h4>
-                            <p class="mb-0">Eirmod erat dolor amet est clita lorem erat justo rebum elitr eos</p>
+                            <p class="mb-0">Unlimited Hosting</p>
+                            <h4 class="fw-bold">Signature</h4>
                         </div>
                         <div class="text-center border-bottom p-4">
-                            <p class="text-primary mb-1">Latest Offer - <strong>Save 30%</strong></p>
-                            <h1 class="mb-3">
-                                <small class="align-top" style="font-size: 22px; line-height: 45px;">$</small>5.49<small
-                                    class="align-bottom" style="font-size: 16px; line-height: 40px;">/ Month</small>
-                            </h1>
-                            <a class="btn btn-secondary px-4 py-2" href="">Buy Now</a>
+                            <p class="text-muted mb-1"><del>Rp 109.000</del></p>
+                            <h3 class="mb-3">
+                                Rp. 89.900
+                            </h3>
+                            <a class="btn btn-primary px-4 py-2" href="#">
+                                Pesan Sekarang
+                            </a>
                         </div>
                         <div class="p-4">
-                            <p class="border-bottom pb-3"><i class="fa fa-check text-primary me-3"></i>100 GB Disk Space</p>
-                            <p class="border-bottom pb-3"><i class="fa fa-check text-primary me-3"></i>Unlimited Bandwith</p>
-                            <p class="border-bottom pb-3"><i class="fa fa-check text-primary me-3"></i>Upgrade to Positive SSL</p>
-                            <p class="border-bottom pb-3"><i class="fa fa-check text-primary me-3"></i>Automatic Malware Removal</p>
-                            <p class="mb-0"><i class="fa fa-check text-primary me-3"></i>30 Days Money Back Guarantee</p>
+                            <div class="row mb-3 justify-content-between">
+                                <div class="col-md-2">
+                                    <img src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/smallicons/disk.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/smallicons/disk.webp" style="vertical-align: middle !important;">
+                                </div>
+                                <div class="col-md-9 align-middle">
+                                    Disk <br> <span style="font-weight: bold !important;">Unlimited</span>
+                                </div>
+                            </div>
+                            <div class="row mb-3 justify-content-between">
+                                <div class="col-md-2">
+                                    <img src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/smallicons/bandwidth.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/smallicons/bandwidth.webp" style="vertical-align: middle !important;">
+                                </div>
+                                <div class="col-md-9 align-middle">
+                                    Unlimited <br> <span style="font-weight: bold !important;">Bandwith</span>
+                                </div>
+                            </div>
+                            <div class="row mb-3 justify-content-between">
+                                <div class="col-md-2">
+                                    <img src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/smallicons/cpu.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/smallicons/cpu.webp" style="vertical-align: middle !important;">
+                                </div>
+                                <div class="col-md-9 align-middle">
+                                    Core CPU <br> <span style="font-weight: bold !important;">1 Core</span>
+                                </div>
+                            </div>
+                            <div class="row mb-3 justify-content-between">
+                                <div class="col-md-2">
+                                    <img src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/smallicons/addon.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/smallicons/addon.webp" style="vertical-align: middle !important;">
+                                </div>
+                                <div class="col-md-9 align-middle">
+                                    Addon / parked domain <br> <span style="font-weight: bold !important;">5 / 5</span>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.6s">
-                    <div class="position-relative shadow rounded border-top border-5 border-primary">
-                        <div class="d-flex align-items-center justify-content-center position-absolute top-0 start-50 translate-middle bg-primary rounded-circle" style="width: 45px; height: 45px; margin-top: -3px;">
-                            <i class="fa fa-cog text-white"></i>
-                        </div>
+                <div class="col-md-3 wow fadeInUp" data-wow-delay="0.2s">
+                    <div class="position-relative shadow rounded border-top border-5">
                         <div class="text-center border-bottom p-4 pt-5">
-                            <h4 class="fw-bold">Dedi Hosting</h4>
-                            <p class="mb-0">Eirmod erat dolor amet est clita lorem erat justo rebum elitr eos</p>
+                            <p class="mb-0">High Performance</p>
+                            <h4 class="fw-bold">HPCH Bisnis 1</h4>
                         </div>
                         <div class="text-center border-bottom p-4">
-                            <p class="text-primary mb-1">Latest Offer - <strong>Save 30%</strong></p>
-                            <h1 class="mb-3">
-                                <small class="align-top" style="font-size: 22px; line-height: 45px;">$</small>11.49<small
-                                    class="align-bottom" style="font-size: 16px; line-height: 40px;">/ Month</small>
-                            </h1>
-                            <a class="btn btn-primary px-4 py-2" href="">Buy Now</a>
+                            <p class="text-muted mb-1"><del>Rp 90.000</del></p>
+                            <h3 class="mb-3">
+                                Rp. 79.000
+                            </h3>
+                            <a class="btn btn-primary px-4 py-2" href="#">
+                                Pesan Sekarang
+                            </a>
                         </div>
                         <div class="p-4">
-                            <p class="border-bottom pb-3"><i class="fa fa-check text-primary me-3"></i>100 GB Disk Space</p>
-                            <p class="border-bottom pb-3"><i class="fa fa-check text-primary me-3"></i>Unlimited Bandwith</p>
-                            <p class="border-bottom pb-3"><i class="fa fa-check text-primary me-3"></i>Upgrade to Positive SSL</p>
-                            <p class="border-bottom pb-3"><i class="fa fa-check text-primary me-3"></i>Automatic Malware Removal</p>
-                            <p class="mb-0"><i class="fa fa-check text-primary me-3"></i>30 Days Money Back Guarantee</p>
+                            <div class="row mb-3 justify-content-between">
+                                <div class="col-md-2">
+                                    <img src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/smallicons/disk.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/smallicons/disk.webp" style="vertical-align: middle !important;">
+                                </div>
+                                <div class="col-md-9 align-middle">
+                                    Disk <br> <span style="font-weight: bold !important;">3 GB</span>
+                                </div>
+                            </div>
+                            <div class="row mb-3 justify-content-between">
+                                <div class="col-md-2">
+                                    <img src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/smallicons/bandwidth.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/smallicons/bandwidth.webp" style="vertical-align: middle !important;">
+                                </div>
+                                <div class="col-md-9 align-middle">
+                                    Unlimited <br> <span style="font-weight: bold !important;">Bandwith</span>
+                                </div>
+                            </div>
+                            <div class="row mb-3 justify-content-between">
+                                <div class="col-md-2">
+                                    <img src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/smallicons/cpu.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/smallicons/cpu.webp" style="vertical-align: middle !important;">
+                                </div>
+                                <div class="col-md-9 align-middle">
+                                    Core CPU <br> <span style="font-weight: bold !important;">1 Core</span>
+                                </div>
+                            </div>
+                            <div class="row mb-3 justify-content-between">
+                                <div class="col-md-2">
+                                    <img src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/smallicons/addon.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/smallicons/addon.webp" style="vertical-align: middle !important;">
+                                </div>
+                                <div class="col-md-9 align-middle">
+                                    Addon / parked domain <br> <span style="font-weight: bold !important;">-</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3 wow fadeInUp" data-wow-delay="0.2s">
+                    <div class="position-relative shadow rounded border-top border-5">
+                        <div class="text-center border-bottom p-4 pt-5">
+                            <p class="mb-0">Cloud VPS KVM SSD</p>
+                            <h4 class="fw-bold">VPS SC1</h4>
+                        </div>
+                        <div class="text-center border-bottom p-4">
+                            <p class="text-muted mb-1"><del>Rp 135.000</del></p>
+                            <h3 class="mb-3">
+                                Rp. 75.000
+                            </h3>
+                            <a class="btn btn-primary px-4 py-2" href="#">
+                                Pesan Sekarang
+                            </a>
+                        </div>
+                        <div class="p-4">
+                            <div class="row mb-3 justify-content-between">
+                                <div class="col-md-2">
+                                    <img src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/smallicons/disk.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/smallicons/disk.webp" style="vertical-align: middle !important;">
+                                </div>
+                                <div class="col-md-9 align-middle">
+                                    Disk <br> <span style="font-weight: bold !important;">25 GB</span>
+                                </div>
+                            </div>
+                            <div class="row mb-3 justify-content-between">
+                                <div class="col-md-2">
+                                    <img src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/smallicons/bandwidth.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/smallicons/bandwidth.webp" style="vertical-align: middle !important;">
+                                </div>
+                                <div class="col-md-9 align-middle">
+                                    Unlimited <br> <span style="font-weight: bold !important;">Bandwith</span>
+                                </div>
+                            </div>
+                            <div class="row mb-3 justify-content-between">
+                                <div class="col-md-2">
+                                    <img src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/smallicons/cpu.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/smallicons/cpu.webp" style="vertical-align: middle !important;">
+                                </div>
+                                <div class="col-md-9 align-middle">
+                                    Core CPU <br> <span style="font-weight: bold !important;">1 Core</span>
+                                </div>
+                            </div>
+                            <div class="row mb-3 justify-content-between">
+                                <div class="col-md-2">
+                                    <img src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/smallicons/addon.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/smallicons/addon.webp" style="vertical-align: middle !important;">
+                                </div>
+                                <div class="col-md-9 align-middle">
+                                    Addon / parked domain <br> <span style="font-weight: bold !important;">Unlimited</span>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
