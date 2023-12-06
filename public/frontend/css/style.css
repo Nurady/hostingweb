@@ -753,4 +753,22 @@ select[type="color"]:focus,
     color: blue; 
 }
 
+.quarantee {
+    background-color: #feecdd;
+    height: auto;
+}
+
+.quarantee h3 {
+    font-size: clamp(1.5rem,8vw,2.688rem) !important;
+    font-weight: 800 !important;
+}
+
+.quarantee h3 span {
+    color: #ff6d0b !important;
+}
+
+.quarantee p {
+    color: black !important;
+}
+
 
