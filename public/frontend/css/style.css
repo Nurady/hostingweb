@@ -466,9 +466,33 @@ h6,
 .btn-hero {
     background-color: #FF6d0b !important;
     border: none;
+    min-width: 347px;
+    border-radius: 32px;
+    height: 65px;
+    background-color: #ff6d0b;
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: #fff;
 }
 
 .btn-hero:hover {
     background-color: #cf3b21 !important;
     border: none;
+}
+
+.hero-header .main-title {
+    font-size: 30px !important;
+    font-weight: 800 !important;
+}
+
+.hero-header .main-title span {
+    color: #FF6d0b !important;
+    text-shadow: -0.5px 0 white, 0 0.5px white, 0.5px 0 white, 0 -0.5px white;
+}
+
+.hero-header small {
+    font-size: 25px !important;
+    font-weight: 800 !important;
+    color: #FF6d0b !important;
+    text-shadow: -0.5px 0 white, 0 0.5px white, 0.5px 0 white, 0 -0.5px white;
 }
