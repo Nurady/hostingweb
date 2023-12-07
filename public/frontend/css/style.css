@@ -1006,15 +1006,14 @@ input[type=number]:focus,
 
 .container-promo-img {
     position: absolute;
-    float: left;
-    top: 500px;
+    top: 550px;
     left: 0 !important;
 }
 
 .container-promo {
     position: relative;
     top: 0;
-    left: 0;
+    left: 50%;
 }
 
 .imgpromo {
