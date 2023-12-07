@@ -923,6 +923,10 @@ select[type="color"]:focus,
     color: #212121 !important;
 }
 
+.accordion-button:focus {
+    box-shadow: none !important;
+    border-color: none !important;
+}
 .accordion-item, .accordion-button {
     background: white !important;
 }
