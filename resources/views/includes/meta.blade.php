@@ -1,6 +1,6 @@
 <meta charset="utf-8">
 
-<title>Qwords - @yield('title')</title>
+<title>@yield('title')</title>
 
 @include('meta::manager', [
     'title'         => 'Qwords',
