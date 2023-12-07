@@ -154,6 +154,13 @@ h6,
     justify-content: center;
     font-weight: normal;
     border-radius: 8px;
+    background-color: #ff6d0b !important;
+}
+
+.btn-square:hover,
+.btn-sm-square:hover,
+.btn-lg-square:hover {
+    background-color: #cf3b21 !important;
 }
 
 
