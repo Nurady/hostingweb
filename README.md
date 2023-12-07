@@ -1,6 +1,9 @@
 ## Tech Stack/Teknologi
 - Laravel 8
 - Bootstrap 5
+- CSS 
+- Javascript
+- PHP
 - CSS Text Animation (https://www.sliderrevolution.com/resources/css-text-animation/)
 
 ## Template 
