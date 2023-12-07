@@ -913,6 +913,38 @@ select[type="color"]:focus,
     border: 1px solid black;
 }
 
+.faqs h1 span {
+    color: #ff6d0b !important;
+}
+
+.faqs .accordion .accordion-item .accordion-header p {
+    font-size: clamp(1rem,10vw,1.5rem) !important;
+    font-weight: 800 !important;
+    color: #212121 !important;
+}
+
+.accordion-item, .accordion-button {
+    background: white !important;
+}
+
+.accordion-button {
+    border-radius: 10px 10px 10px 10px !important;
+}
+
+.accordion-button:not(.collapse)::after { 
+    background-image: url("/frontend/img/downarrow.png");
+    background-color: #FEECDD !important;
+    border-radius: 50% !important;
+    padding: 5px !important;
+}
+
+.accordion-button::after {
+    background-image: url("/frontend/img/up.svg");
+    background-color: #FEECDD !important;
+    border-radius: 50% !important;
+    padding: 5px !important;
+}
+   
 @media (max-width: 576px) { 
     .testimonial .quote,  .testimonial .quote-profil {
         width: 100% !important;
