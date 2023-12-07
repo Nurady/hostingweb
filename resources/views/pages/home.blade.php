@@ -32,7 +32,7 @@
                             </div>
                         </div>
                         <div class="col-md-2">
-                            <button type="button" class="btn btn-primary">Search</button>
+                            <button type="button" class="btn btn-search-domain btn-primary">Search</button>
                         </div>
                     </div>
                     <div class="row g-3 wow fadeInUp" data-wow-delay="0.5s">

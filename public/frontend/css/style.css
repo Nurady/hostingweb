@@ -609,8 +609,8 @@ h6,
 }
 
 .search-domain button:hover {
-    background-color: #212121;
-    border: none;
+    background-color: #212121 !important;
+    border: none !important;
 }
 
 input:focus,
@@ -927,6 +927,7 @@ select[type="color"]:focus,
     box-shadow: none !important;
     border-color: none !important;
 }
+
 .accordion-item, .accordion-button {
     background: white !important;
 }
@@ -948,7 +949,30 @@ select[type="color"]:focus,
     border-radius: 50% !important;
     padding: 5px !important;
 }
-   
+
+.btn:focus {
+    box-shadow: none !important;
+    border-color: none !important;
+}
+
+textarea:focus, 
+textarea.form-control:focus, 
+input.form-control:focus, 
+.form-select:focus, 
+input[type=text]:focus, 
+input[type=password]:focus, 
+input[type=email]:focus, 
+input[type=number]:focus, 
+[type=text].form-control:focus, 
+[type=password].form-control:focus, 
+[type=email].form-control:focus, 
+[type=tel].form-control:focus, 
+[contenteditable].form-control:focus {
+    box-shadow: none !important;
+    border-color: none !important;
+}
+
+
 @media (max-width: 576px) { 
     .testimonial .quote,  .testimonial .quote-profil {
         width: 100% !important;
