@@ -809,6 +809,53 @@ select[type="color"]:focus,
     text-decoration-style: dashed;
 }
 
+.helpdesk {
+    background-color: #feecdd;
+    background-image: url(https://qwords.com/v2/wp-content/themes/qwords/assets/images/shapes/bantuan.png);
+    background-size: cover;
+    min-height: 300px;
+    border-top-left-radius: 1em;
+    border-top-right-radius: 1em;
+}
+
+.helpdesk h1 {
+    font-size: clamp(1rem,10vw,2.688rem);
+    font-weight: 800;
+}
+
+.helpdesk h1 span {
+    color: #ff6d0b !important;
+}
+
+.helpdesk .contact-col {
+    border: 1px solid #ff6d0b;
+    padding: 1em;
+    border-radius: 2em;
+    color: #ff6d0b;
+    cursor: pointer;
+    text-align: center;
+    font-size: 1.5rem !important;
+    font-weight: 400!important;
+}
+
+.helpdesk .contact-col:hover {
+    background-color: #ff6d0b;
+    transition: .5s;
+    color: #fff !important;
+}
+
+.helpdesk .contact-col .img-hover {
+   display: none !important;
+}
+
+.helpdesk .contact-col:hover .img-hover {
+    display: block !important;
+}
+
+.helpdesk .contact-col:hover .img-normal {
+    display: none !important;
+}
+
 @media (max-width: 576px) { 
     .testimonial .quote,  .testimonial .quote-profil {
         width: 100% !important;

@@ -3,6 +3,7 @@
 <head>
     @include('includes.meta')
     @include('includes.style')
+    @stack('after-style')
 </head>
 
 <body>
@@ -25,6 +26,7 @@
     </div>
 
     @include('includes.script') 
+    @stack('after-script')
 </body>
 
 </html>
