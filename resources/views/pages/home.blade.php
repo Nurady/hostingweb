@@ -861,11 +861,6 @@
                             <h5 class="fw-bold mb-1">Full Name</h5>
                             <small>Director</small>
                         </div>
-                        <div class="d-flex justify-content-center bg-primary p-3">
-                            <a class="btn btn-square text-primary bg-white m-1" href="#"><i class="fab fa-facebook-f"></i></a>
-                            <a class="btn btn-square text-primary bg-white m-1" href="#"><i class="fab fa-twitter"></i></a>
-                            <a class="btn btn-square text-primary bg-white m-1" href="#"><i class="fab fa-instagram"></i></a>
-                        </div>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
@@ -874,11 +869,6 @@
                             <img class="img-fluid rounded-circle mb-4" src="{{ asset('frontend/img/team-2.jpg') }}" alt="">
                             <h5 class="fw-bold mb-1">Full Name</h5>
                             <small>System Analyst</small>
-                        </div>
-                        <div class="d-flex justify-content-center bg-primary p-3">
-                            <a class="btn btn-square text-primary bg-white m-1" href="#"><i class="fab fa-facebook-f"></i></a>
-                            <a class="btn btn-square text-primary bg-white m-1" href="#"><i class="fab fa-twitter"></i></a>
-                            <a class="btn btn-square text-primary bg-white m-1" href="#"><i class="fab fa-instagram"></i></a>
                         </div>
                     </div>
                 </div>
@@ -889,11 +879,6 @@
                             <h5 class="fw-bold mb-1">Full Name</h5>
                             <small>Full Stack Developer</small>
                         </div>
-                        <div class="d-flex justify-content-center bg-primary p-3">
-                            <a class="btn btn-square text-primary bg-white m-1" href="#"><i class="fab fa-facebook-f"></i></a>
-                            <a class="btn btn-square text-primary bg-white m-1" href="#"><i class="fab fa-twitter"></i></a>
-                            <a class="btn btn-square text-primary bg-white m-1" href="#"><i class="fab fa-instagram"></i></a>
-                        </div>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
@@ -902,11 +887,6 @@
                             <img class="img-fluid rounded-circle mb-4" src="{{ asset('frontend/img/team-4.jpg') }}" alt="">
                             <h5 class="fw-bold mb-1">Full Name</h5>
                             <small>IT Infrastructure</small>
-                        </div>
-                        <div class="d-flex justify-content-center bg-primary p-3">
-                            <a class="btn btn-square text-primary bg-white m-1" href="#"><i class="fab fa-facebook-f"></i></a>
-                            <a class="btn btn-square text-primary bg-white m-1" href="#"><i class="fab fa-twitter"></i></a>
-                            <a class="btn btn-square text-primary bg-white m-1" href="#"><i class="fab fa-instagram"></i></a>
                         </div>
                     </div>
                 </div>

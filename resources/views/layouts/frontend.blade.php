@@ -23,6 +23,8 @@
 
         <!-- Back to Top -->
         <a href="#" class="btn btn-lg btn-secondary btn-lg-square back-to-top"><i class="bi bi-arrow-up"></i></a>
+
+        <div class="BottomButton_icon__Yjla4"></div>
     </div>
 
     @include('includes.script') 

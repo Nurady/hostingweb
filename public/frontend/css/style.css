@@ -897,6 +897,21 @@ select[type="color"]:focus,
     text-decoration: underline !important;
 }
 
+.BottomButton_icon__Yjla4 {
+    background-image: url("/frontend/img/help.svg");
+    background-position: 50%!important;
+    background-repeat: no-repeat!important;
+    background-size: contain!important;
+    position: fixed;
+    bottom: 125px !important;
+    right: 40px !important;
+    width: 60px;
+    height: 60px;
+    z-index:99;
+    background-color: white !important;
+    border-radius: 30px !important;
+}
+
 @media (max-width: 576px) { 
     .testimonial .quote,  .testimonial .quote-profil {
         width: 100% !important;
