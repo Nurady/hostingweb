@@ -14,13 +14,13 @@
 - Laravel mix
 
 ## Setup Project
+- Instalasi Text Editor VS Code (https://code.visualstudio.com/)
+- Instalasi Power Shell
+- Instalasi Web Server XAMPP
+- Instalasi PHP 8
 - Instalasi Composer
 - Instalasi node.js
-- Instalasi XAMPP
-- Instalasi VS Code
-- Instalasi Power Shell
-- PHP 8
-- composer create-project laravel/laravel:^8.0 example-app
+- Membuat Project : composer create-project laravel/laravel:^8.0 nama_project
 
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
