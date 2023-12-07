@@ -990,6 +990,10 @@ input[type=number]:focus,
     -moz-box-shadow: 4px 3px 38px -15px rgba(255,109,11,0.75);
 }
 
+.registration-form .btn-login {
+    background: #ff6d0b !important;
+    color: white !important;
+}
 
 @media (max-width: 576px) { 
     .testimonial .quote,  .testimonial .quote-profil {

@@ -7,7 +7,8 @@
 - CSS Text Animation (https://www.sliderrevolution.com/resources/css-text-animation/)
 
 ## Template 
-- https://themewagon.com/themes/free-bootstrap-5-html5-web-hosting-template-greenhost/
+- Landing Page : https://themewagon.com/themes/free-bootstrap-5-html5-web-hosting-template-greenhost/
+- Form Register dan Login : https://epicbootstrap.com/snippets/registration
 
 ## Package
 - Laravel Meta Manager
