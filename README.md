@@ -21,6 +21,8 @@
 - Instalasi Composer
 - Instalasi node.js
 - Membuat Project : composer create-project laravel/laravel:^8.0 nama_project
+- Mengunduh dan include Template Front End di project laravel
+- Laravel Templating berdasarkan Atomic Design
 
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
