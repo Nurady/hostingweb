@@ -1007,8 +1007,8 @@ input[type=number]:focus,
 .container-promo-img {
     position: absolute;
     float: left;
-    top: 100px;
-    left: 70% !important;
+    top: 500px;
+    left: 0 !important;
 }
 
 .container-promo {
@@ -1030,9 +1030,9 @@ input[type=number]:focus,
 .imgstoresection {
     position: absolute;
     top: 30px;
-    left: 100px;
-    width: 100px;
-    height: 80px;
+    left: 10px;
+    width: 200px;
+    height: 100px;
     z-index: 88;
 }
 
