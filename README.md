@@ -12,7 +12,7 @@
 
 ## Package
 - Laravel Meta Manager
-- Laravel UI 3.x
+- Auth Scaffolding Laravel UI 3.x
 - Laravel mix
 
 ## Setup Project
