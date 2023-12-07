@@ -807,7 +807,7 @@
     <div class="helpdesk container-fluid mt-5 py-5">
         <h1 class="text-center"> Butuh  <span>Bantuan?</span> </h1>
         <p class="text-center">Kami siap membantu anda 24 Jam</p>
-        <div class="d-flex">
+        <div class="d-flex flex-column-reverse flex-md-row flex-xl-row flex-xxl-row align-items-center">
             <div class="p-1 flex-fill">
                 <a href="tel:+628041808888">	
 					<div class="contact-col d-flex justify-content-center mb-3">
