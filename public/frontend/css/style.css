@@ -365,6 +365,9 @@ h6,
 
 
 /*** Team ***/
+.team-item .bg-primary {
+    background-color: #ff6d0b !important;
+}
 .team-item,
 .team-item .bg-primary,
 .team-item .bg-primary i {
@@ -372,15 +375,18 @@ h6,
 }
 
 .team-item:hover {
-    border-color: var(--secondary) !important;
+    /* border-color: var(--secondary) !important; */
+    border-color: #cf3b21 !important;
 }
 
 .team-item:hover .bg-primary {
-    background: var(--secondary) !important;
+    /* background: var(--secondary) !important; */
+    background: #cf3b21 !important;
 }
 
 .team-item:hover .bg-primary i {
-    color: var(--secondary) !important;
+    /* color: var(--secondary) !important; */
+    color: #cf3b21 !important;
 }
 
 
