@@ -15,6 +15,7 @@
 
 ## Setup Project
 - Instalasi Text Editor VS Code (https://code.visualstudio.com/)
+- Instalasi Extension VS Code yang diperlukan
 - Instalasi Power Shell
 - Instalasi Web Server XAMPP
 - Instalasi PHP 8
