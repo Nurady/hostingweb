@@ -972,10 +972,46 @@ input[type=number]:focus,
     border-color: none !important;
 }
 
+.service .service-card:hover {
+    box-shadow: 4px 3px 38px -15px rgba(255,109,11,0.75);
+    -webkit-box-shadow: 4px 3px 38px -15px rgba(255,109,11,0.75);
+    -moz-box-shadow: 4px 3px 38px -15px rgba(255,109,11,0.75);
+}
+
+.service .service-other-card:hover {
+    box-shadow: 4px 3px 38px -15px rgba(255,109,11,0.75);
+    -webkit-box-shadow: 4px 3px 38px -15px rgba(255,109,11,0.75);
+    -moz-box-shadow: 4px 3px 38px -15px rgba(255,109,11,0.75);
+}
+
+.commitment .card:hover {
+    box-shadow: 4px 3px 38px -15px rgba(255,109,11,0.75);
+    -webkit-box-shadow: 4px 3px 38px -15px rgba(255,109,11,0.75);
+    -moz-box-shadow: 4px 3px 38px -15px rgba(255,109,11,0.75);
+}
+
 
 @media (max-width: 576px) { 
     .testimonial .quote,  .testimonial .quote-profil {
         width: 100% !important;
+    }
+
+    .commitment .card {
+        text-align: center !important;
+    }
+    
+    .commitment img {
+        justify-content: center !important;
+    }
+
+    .helpdesk .h6home {
+        font-size: clamp(1rem,10vw,1rem);
+        font-weight: 500;
+    }
+
+    .helpdesk .contact-col {
+        padding-top: 0.8rem !important;
+        padding-bottom: 0.8rem !important;
     }
 }
 

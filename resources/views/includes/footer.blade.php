@@ -87,23 +87,24 @@
             </div>
             <div class="row mt-5">
                 <h3>Terdaftar di PSE, ICANN dan Partner Lainnya</h3>
-                <div class="d-flex flex-column flex-md-row flex-xl-row flex-xxl-row align-items-center mb-3">
-                    <div class="me-3">
+                <div class="d-flex flex-wrap align-items-center mb-3">
+                    {{-- <div class="d-flex flex-column flex-md-row flex-xl-row flex-xxl-row align-items-center mb-3"> --}}
+                    <div class="me-3 mb-3">
                         <img src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/code.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/code.webp">
                     </div>
-                    <div class="me-3">
+                    <div class="me-3 mb-3">
                         <img src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/icann-logo.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/icann-logo.webp">
                     </div>
-                    <div class="me-3">
+                    <div class="me-3 mb-3">
                         <img width="100px" height="100px" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/badge_litespeed.svg" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/badge_litespeed.svg">
                     </div>
-                    <div class="me-3">
+                    <div class="me-3 mb-3">
                         <img width="100px" height="100px" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/badge_whmadmin.svg" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/badge_whmadmin.svg">
                     </div>
-                    <div class="me-3">
+                    <div class="me-3 mb-3">
                         <img src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/acronis-cloud-tech.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/acronis-cloud-tech.webp">
                     </div>
-                    <div class="me-3">
+                    <div class="me-3 mb-3">
                         <img src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/acronis-cloud-sales.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/acronis-cloud-sales.webp">
                     </div>
                 </div>
