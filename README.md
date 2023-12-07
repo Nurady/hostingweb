@@ -10,7 +10,8 @@
 - https://themewagon.com/themes/free-bootstrap-5-html5-web-hosting-template-greenhost/
 
 ## Package
-- Laravel UI 3.x (https://github.com/laravel/ui/tree/3.x)
+- Laravel Meta Manager
+- Laravel UI 3.x
 - Laravel mix
 
 ## Setup Project

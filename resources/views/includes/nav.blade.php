@@ -35,7 +35,7 @@
                 </a>
             </div>
         </div>
-        <a href="#" class="btn btn-secondary py-2 px-3 ms-3 btn-login">Daftar</a>
-        <a href="#" class="btn btn-secondary py-2 px-3 ms-3 btn-login">Log In</a>
+        <a href="{{ route('register') }}" class="btn btn-secondary py-2 px-3 ms-3 btn-login">Daftar</a>
+        <a href="{{ route('login') }}" class="btn btn-secondary py-2 px-3 ms-3 btn-login">Log In</a>
     </div>
 </nav>
