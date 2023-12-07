@@ -25,6 +25,14 @@
         <a href="#" class="btn btn-lg btn-secondary btn-lg-square back-to-top"><i class="bi bi-arrow-up"></i></a>
 
         <div class="BottomButton_icon__Yjla4"></div>
+
+        <div class="container-promo-img">
+            <img class="imgtext" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/illustrations/promo-sign.webp" class="promo-sign entered litespeed-loaded" alt="promo-sign.webp">
+            <div class="container-promo"> 
+                <img class="imgpromo" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/illustrations/promo-text.webp" class="promo-text entered litespeed-loaded" alt="cek diskon hosting sekarang!">
+                <img class="imgstoresection" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/illustrations/storesection.webp" class="promo-illustration entered litespeed-loaded" alt="cek promo hosting Indonesia terbaru">
+            </div>
+        </div>
     </div>
 
     @include('includes.script') 

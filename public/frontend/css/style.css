@@ -1004,6 +1004,38 @@ input[type=number]:focus,
     text-decoration: none !important;
 }
 
+.container-promo-img {
+    position: absolute;
+    float: left;
+    top: 100px;
+    left: 70% !important;
+}
+
+.container-promo {
+    position: relative;
+    top: 0;
+    left: 0;
+}
+
+.imgpromo {
+    position: relative;
+    top: 10px;
+    left: 200px;
+    z-index: 80;
+    width: 150px;
+    height: 80px;
+    background: #cf3b21 !important;
+}
+
+.imgstoresection {
+    position: absolute;
+    top: 30px;
+    left: 100px;
+    width: 100px;
+    height: 80px;
+    z-index: 88;
+}
+
 @media (max-width: 576px) { 
     .testimonial .quote,  .testimonial .quote-profil {
         width: 100% !important;
