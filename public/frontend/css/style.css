@@ -863,6 +863,33 @@ select[type="color"]:focus,
     display: none !important;
 }
 
+.footer {
+    background: #13151b !important;
+}
+
+.footer .btn {
+    background-color: #ff6d0b;
+    transition: .5s;
+    color: #fff !important;
+    border: none;
+}
+
+.footer .btn:hover {
+    background-color: #cf3b21 !important;
+}
+
+.footer h3 {
+    font-size: 1.25rem !important;
+    font-weight: 700!important;
+    margin-bottom: 1rem!important;
+    color: white;
+}
+
+.footer a:hover {
+    color: #ff6d0b !important;
+    text-decoration: underline !important;
+}
+
 @media (max-width: 576px) { 
     .testimonial .quote,  .testimonial .quote-profil {
         width: 100% !important;
