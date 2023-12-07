@@ -35,7 +35,7 @@
                 </a>
             </div>
         </div>
-
-        <a href="#" class="btn btn-secondary py-2 px-4 ms-3 btn-login">Log In</a>
+        <a href="#" class="btn btn-secondary py-2 px-3 ms-3 btn-login">Daftar</a>
+        <a href="#" class="btn btn-secondary py-2 px-3 ms-3 btn-login">Log In</a>
     </div>
 </nav>

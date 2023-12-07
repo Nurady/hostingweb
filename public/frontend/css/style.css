@@ -522,6 +522,7 @@ h6,
     border: none;
     color: #FF6d0b !important;
     font-weight: bold !important;
+    border-radius: 20px;
 }
 
 .btn-login:hover {
