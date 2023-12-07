@@ -17,7 +17,9 @@
     <div class="registration-form">
         <form>
             <div class="text-center mb-5">
-                <img src="{{ asset('frontend/img/logo-qw-light.webp') }}" alt="logo-qw-light">
+                <a href="/">
+                    <img src="{{ asset('frontend/img/logo-qw-light.webp') }}" alt="logo-qw-light">
+                </a>
             </div>
             <div class="form-group">
                 <input type="text" class="form-control item" id="username" placeholder="Username">
@@ -45,6 +47,11 @@
                     <span>
                         <a class="text-white" href="{{ route('login') }}">Login</a>
                     </span> 
+                </button>
+            </div>
+            <div class="form-group">
+                <button type="button" class="btn-home btn btn-block create-account">                    
+                    <a class="text-white" href="/">Beranda</a>
                 </button>
             </div>
         </form>

@@ -17,7 +17,9 @@
     <div class="registration-form">
         <form>
             <div class="text-center mb-5">
-                <img src="{{ asset('frontend/img/logo-qw-light.webp') }}" alt="logo-qw-light">
+                <a href="/">
+                    <img src="{{ asset('frontend/img/logo-qw-light.webp') }}" alt="logo-qw-light">
+                </a>
             </div>
             <div class="form-group">
                 <input type="text" class="form-control item" id="username" placeholder="Username">
@@ -28,6 +30,12 @@
             <div class="form-group">
                 <button type="button" class="btn-register btn btn-block create-account">Login</button>
             </div>
+            <p class="text-center">
+                Forgot Your Password ??
+                <span>
+                    <a href="#">Reset</a>
+                </span>
+            </p>
             <div class="form-group">
                 <button type="button" class="btn-login btn btn-block create-account">
                     <span class="text-dark">
@@ -38,14 +46,12 @@
                     </span> 
                 </button>
             </div>
-            <p class="text-center">
-                Forgot Your Password ??
-                <span>
-                    <a href="#">Reset</a>
-                </span>
-            </p>
+            <div class="form-group">
+                <button type="button" class="btn-home btn btn-block create-account">                    
+                    <a class="text-white" href="/">Beranda</a>
+                </button>
+            </div>
         </form>
-
         <div class="social-media">
             <h5>Login with social media</h5>
             <div class="social-icons">

@@ -995,6 +995,15 @@ input[type=number]:focus,
     color: white !important;
 }
 
+.registration-form .btn-home {
+    background: #cf3b21 !important;
+    color: white !important;
+}
+
+.registration-form .btn-home a {
+    text-decoration: none !important;
+}
+
 @media (max-width: 576px) { 
     .testimonial .quote,  .testimonial .quote-profil {
         width: 100% !important;
