@@ -776,4 +776,43 @@ select[type="color"]:focus,
     font-weight: 800 !important;
 }
 
+.testimonial h1 {
+    font-size: clamp(1.5rem,8vw,2.688rem) !important;
+    font-weight: 800 !important;
+}
+
+.testimonial p {
+    color: black !important;
+}
+
+.testimonial .header-quote:before {
+    content: url(https://qwords.com/v2/wp-content/themes/qwords/assets/images/shapes/cite.png);
+    position: absolute;
+    top: -5px;
+    transform: scale(.5) translate(0);
+}
+
+.testimonial .header-quote {
+    position: relative;
+}
+
+.testimonial .header-quote h5 {
+    line-height: 1.8rem;
+    margin-left: 3rem;
+}
+
+.testimonial .quote-details {
+    border-left: 5px solid #ff6d0b;
+    padding-left: 1em;
+    margin-left: 3rem;
+    color: #a0a0a0;
+    text-decoration-style: dashed;
+}
+
+@media (max-width: 576px) { 
+    .testimonial .quote,  .testimonial .quote-profil {
+        width: 100% !important;
+    }
+}
+
 
