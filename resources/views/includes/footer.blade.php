@@ -3,7 +3,7 @@
         <div class="row gy-5 gx-4 pt-5">
             <div class="row">
                 <div class="col-md-3 mb-3">
-                    <img width="190px" data-sizes="auto" data-src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/logo-dark.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/logo-dark.webp">
+                    <img width="190px" data-sizes="auto" class="lazyload" data-src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/logo-dark.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/logo-dark.webp">
 
                     <h3>PT Qwords Company International</h3>
                     <p>Cloud Web Hosting Indonesia. Domain & hosting terbaik dengan akses cepat yang didukung layanan support 24/7</p>
