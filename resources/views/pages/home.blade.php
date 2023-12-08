@@ -44,4 +44,6 @@
             }
         }
     </script>
+
+    <script src="{{ asset('js/lazysizes.min.js') }}"></script>
 @endpush

@@ -12,7 +12,7 @@
             <div class="col-md-4 mb-3">
                 <div class="card border-0 p-3">
                     <div>
-                        <img src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/call.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/call.webp">                            
+                        <img class="lazyload" data-src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/call.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/call.webp">                            
                     </div>
                     <h3 class="mt-3">Layanan 24/7</h3>
                     <p>
@@ -23,7 +23,7 @@
             <div class="col-md-4 mb-3">
                 <div class="card border-0 p-3">
                     <div>
-                        <img src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/book.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/book.webp">                            
+                        <img class="lazyload" data-src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/book.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/book.webp">                            
                     </div>
                     <h3 class="mt-3">Panduan Manual Lengkap</h3>
                     <p>
@@ -34,7 +34,7 @@
             <div class="col-md-4 mb-3">
                 <div class="card border-0 p-3">
                     <div>
-                        <img src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/router.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/router.webp">                            
+                        <img class="lazyload" data-src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/router.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/router.webp">                            
                     </div>
                     <h3 class="mt-3">Up time 99.99%</h3>
                     <p>
@@ -45,7 +45,7 @@
             <div class="col-md-4 mb-3">
                 <div class="card border-0 p-3">
                     <div>
-                        <img src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/guard.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/guard.webp">                            
+                        <img class="lazyload" data-src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/guard.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/guard.webp">                            
                     </div>
                     <h3 class="mt-3">Jaminan keamanan</h3>
                     <p>
@@ -56,7 +56,7 @@
             <div class="col-md-4 mb-3">
                 <div class="card border-0 p-3">
                     <div>
-                        <img src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/networkAlt.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/networkAlt.webp">                            
+                        <img class="lazyload" data-src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/networkAlt.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/networkAlt.webp">                            
                     </div>
                     <h3 class="mt-3">Clustered DNS</h3>
                     <p>
@@ -67,7 +67,7 @@
             <div class="col-md-4 mb-3">
                 <div class="card border-0 p-3">
                     <div>
-                        <img src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/diamond.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/diamond.webp">                            
+                        <img class="lazyload" data-src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/diamond.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/diamond.webp">                            
                     </div>
                     <h3 class="mt-3">High Enterprise Server</h3>
                     <p>
@@ -78,7 +78,7 @@
             <div class="col-md-4 mb-3">
                 <div class="card border-0 p-3">
                     <div>
-                        <img src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/network.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/network.webp">                            
+                        <img class="lazyload" data-src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/network.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/network.webp">                            
                     </div>
                     <h3 class="mt-3">Peering Network</h3>
                     <p>
@@ -89,7 +89,7 @@
             <div class="col-md-4 mb-3">
                 <div class="card border-0 p-3">
                     <div>
-                        <img src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/router.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/router.webp">                            
+                        <img class="lazyload" data-src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/router.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/new-icon/router.webp">                            
                     </div>
                     <h3 class="mt-3">Tier 1 Network</h3>
                     <p>

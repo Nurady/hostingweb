@@ -18,7 +18,7 @@
                 </div>
             </div>
             <div class="col-lg-6 text-center">
-                <img class="img-fluid animated zoomIn" src="{{ asset('frontend/img/hero.png') }}" alt="">
+                <img class="img-fluid animated zoomIn hero" src="{{ asset('frontend/img/hero.png') }}" alt="hero">
             </div>
         </div>
     </div>

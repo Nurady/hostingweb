@@ -3,7 +3,7 @@
         <div class="card p-5 border-0">
             <div class="row align-items-center">
                 <div class="col-md-4 mb-2">
-                    <img class="w-100" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/illustrations/bw.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/illustrations/bw.webp">
+                    <img class="w-100 lazyload" data-src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/illustrations/bw.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/illustrations/bw.webp">
                 </div>
                 <div class="col-md-8 mb-2">
                     <h3><span>Bikin website impian</span> dengan mudah disini hanya 1jutaan</h3>

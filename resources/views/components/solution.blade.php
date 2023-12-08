@@ -18,7 +18,7 @@
                         <p>
                             Wujudkan website perusahaan profesional dan berkelas dengan dukungan web hosting terbaik dan fitur keamanan ekstra
                         </p>                            
-                        <img src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/photos/company.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/photos/company.webp">
+                        <img class="lazyload" data-src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/photos/company.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/photos/company.webp">
                     </div>
                 </a>
             </div>
@@ -29,7 +29,7 @@
                         <p>
                             Memberikan hosting terbaik untuk mendukung kebutuhan website pemasaran barang/jasa secara online.
                         </p>                            
-                        <img src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/photos/umkm.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/photos/umkm.webp">
+                        <img class="lazyload" data-src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/photos/umkm.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/photos/umkm.webp">
                     </div>
                 </a>
             </div>
@@ -40,7 +40,7 @@
                         <p>
                             Bikin website organisasi atau komunitas Anda dengan paket hosting unggulan yang ramah kantong.
                         </p>                            
-                        <img src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/photos/orgs.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/photos/orgs.webp">
+                        <img class="lazyload" data-src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/photos/orgs.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/photos/orgs.webp">
                     </div>
                 </a>
             </div>
@@ -51,7 +51,7 @@
                         <p>
                             Infrastruktur web hosting terbaik untuk menunjang kegiatan e-learning. Didukung platform MOODLE khusus pembelajaran daring.
                         </p>                            
-                        <img src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/photos/school.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/photos/school.webp">
+                        <img class="lazyload" data-src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/photos/school.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/photos/school.webp">
                     </div>
                 </a>
             </div>
@@ -62,7 +62,7 @@
                         <p>
                             Tersedia paket hosting Indonesia dengan spesifikasi khusus yang dev-friendly. Ekstra NodeJS dan Git Version Control.
                         </p>                            
-                        <img src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/photos/dev.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/photos/dev.webp">
+                        <img class="lazyload" data-src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/photos/dev.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/photos/dev.webp">
                     </div>
                 </a>
             </div>
@@ -73,7 +73,7 @@
                         <p>
                             TMemfasilitasi blogger dengan infrastruktur hosting Indonesia terbaik serta template website premium untuk tampil lebih profesional.
                         </p>                            
-                        <img src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/photos/blog.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/photos/blog.webp">
+                        <img class="lazyload" data-src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/photos/blog.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/photos/blog.webp">
                     </div>
                 </a>
             </div>

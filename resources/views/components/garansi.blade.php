@@ -2,7 +2,7 @@
     <div class="container-fluid">
         <div class="row align-items-center">
             <div class="col-md-6">
-                <img class="w-100" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/illustrations/guarantee.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/illustrations/guarantee.webp">
+                <img class="w-100 lazyload" data-src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/illustrations/guarantee.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/illustrations/guarantee.webp">
             </div>
             <div class="col-md-6">
                 <h3>Garansi 30 Hari <span>Uang Kembali</span></h3>

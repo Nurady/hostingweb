@@ -7,22 +7,22 @@
         </div>
         <div class="row wow fadeInUp justify-content-center">
             <div class="col-md-3 mb-2">
-                <img class="w-100" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/liputan/Detikcom.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/liputan/Detikcom.webp">
+                <img class="w-100 lazyload" data-src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/liputan/Detikcom.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/liputan/Detikcom.webp">
             </div>
             <div class="col-md-3 mb-2">
-                <img class="w-100" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/liputan/Liputan6.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/liputan/Liputan6.webp">
+                <img class="w-100 lazyload" data-src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/liputan/Liputan6.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/liputan/Liputan6.webp">
             </div>
             <div class="col-md-3 mb-2">
-                <img class="w-100" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/liputan/TribunJogja.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/liputan/TribunJogja.webp">
+                <img class="w-100 lazyload" data-src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/liputan/TribunJogja.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/liputan/TribunJogja.webp">
             </div>
             <div class="col-md-3 mb-2">
-                <img class="w-100" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/liputan/antara.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/liputan/antara.webp">
+                <img class="w-100 lazyload" data-src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/liputan/antara.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/liputan/antara.webp">
             </div>
             <div class="col-md-3 mb-2">
-                <img class="w-100" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/liputan/RM.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/liputan/RM.webp">
+                <img class="w-100 lazyload" data-src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/liputan/RM.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/liputan/RM.webp">
             </div>
             <div class="col-md-3 mb-2">
-                <img class="w-100" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/liputan/KoranBernas.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/liputan/KoranBernas.webp">
+                <img class="w-100 lazyload" data-src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/liputan/KoranBernas.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/liputan/KoranBernas.webp">
             </div>
         </div>
         <div class="mt-4 text-center">
