@@ -1,4 +1,4 @@
-## Tech Stack/Teknologi
+## Stack/Teknologi
 - Laravel 8
 - Bootstrap 5
 - CSS 
@@ -11,8 +11,7 @@
 - **[CSS Text Animation - sliderrevolution](https://www.sliderrevolution.com/resources/css-text-animation/)**
 
 ## Package
-- Laravel Meta Manager : SEO
-- laravel Analytics -  Retrieve data from Google Analytics : https://github.com/spatie/laravel-analytics
+- Laravel Meta Manager
 - laravel-googletagmanager : https://github.com/spatie/laravel-googletagmanager
 - Auth Scaffolding Laravel UI 3.x : Register, Login, Logout
 - Laravel mix
