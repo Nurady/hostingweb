@@ -133,8 +133,7 @@
         <div class="copyright">
             <div class="row">
                 <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
-                    &copy; <a class="border-bottom" href="#">Your Site Name</a>, All Right Reserved. 
-                    Designed By <a class="border-bottom" href="https://htmlcodex.com">HTML Codex</a>
+                    &copy; Designed By <a class="border-bottom" href="https://htmlcodex.com">HTML Codex</a>
                     <br>
                     Distributed By <a class="border-bottom" href="https://themewagon.com" target="_blank">ThemeWagon</a>
                 </div>
