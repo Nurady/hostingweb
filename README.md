@@ -11,8 +11,10 @@
 - **[CSS Text Animation - sliderrevolution](https://www.sliderrevolution.com/resources/css-text-animation/)**
 
 ## Package
-- Laravel Meta Manager
-- Auth Scaffolding Laravel UI 3.x
+- Laravel Meta Manager : SEO
+- laravel Analytics -  Retrieve data from Google Analytics : https://github.com/spatie/laravel-analytics
+- laravel-googletagmanager : https://github.com/spatie/laravel-googletagmanager
+- Auth Scaffolding Laravel UI 3.x : Register, Login, Logout
 - Laravel mix
 
 ## Setup Project
