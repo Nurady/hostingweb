@@ -1055,6 +1055,10 @@ input[type=number]:focus,
     animation: wiggle 2s linear infinite;
 }
 
+img.lazyload:not([src]) {
+	visibility: hidden;
+}
+
 @keyframes wiggle {
     0%, 7% {
         transform: rotateZ(0);
