@@ -14,6 +14,7 @@
 ## Package
 - Laravel Meta Manager
 - laravel-googletagmanager : https://github.com/spatie/laravel-googletagmanager
+- laravel Analytics : https://github.com/spatie/laravel-analytics
 - Auth Scaffolding Laravel UI 3.x : Register, Login, Logout
 - Laravel mix
 
