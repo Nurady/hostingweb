@@ -11,10 +11,11 @@
 - **[CSS Text Animation - sliderrevolution](https://www.sliderrevolution.com/resources/css-text-animation/)**
 - **[CSS Image Promo Animation](https://blog.hubspot.com/website/css-animation-examples/)**
 
-## Package
+## Package/Library
 - Laravel Meta Manager
 - laravel-googletagmanager : https://github.com/spatie/laravel-googletagmanager
 - laravel Analytics : https://github.com/spatie/laravel-analytics
+- Lazy Load Image : https://github.com/aFarkas/lazysizes
 - Auth Scaffolding Laravel UI 3.x : Register, Login, Logout
 - Laravel mix
 
