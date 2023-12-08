@@ -6,9 +6,9 @@
 - PHP
 
 ### Template
-- **[Landing Page](https://themewagon.com/themes/free-bootstrap-5-html5-web-hosting-template-greenhost/)**
-- **[Form Register dan Login](https://epicbootstrap.com/snippets/registration)**
-- **[CSS Text Animation](https://www.sliderrevolution.com/resources/css-text-animation/)**
+- **[Landing Page - Themewagon](https://themewagon.com/themes/free-bootstrap-5-html5-web-hosting-template-greenhost/)**
+- **[Form Register dan Login - epicbootstrap](https://epicbootstrap.com/snippets/registration)**
+- **[CSS Text Animation - sliderrevolution](https://www.sliderrevolution.com/resources/css-text-animation/)**
 
 ## Package
 - Laravel Meta Manager
