@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    {{-- @include('googletagmanager::head') --}}
     @include('includes.meta')
     @include('includes.style')
     @stack('after-style')
 </head>
 <body>
+    {{-- @include('googletagmanager::body') --}}
     <div class="container-xxl bg-white p-0">
         <div class="container-xxl position-relative p-0">
             @include('includes.nav')
