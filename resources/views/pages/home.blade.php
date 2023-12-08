@@ -915,7 +915,7 @@
         </div>
     </div>
 
-    <!-- Team Member -->
+    <!-- Member -->
     <div class="container-xxl py-5 mt-3">
         <div class="container px-lg-5">
             <div class="position-relative text-center mx-auto mb-2 pb-4 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
@@ -962,3 +962,17 @@
         </div>
     </div>
 @endsection
+
+@push('after-script')
+    <script>
+        function hideAndShowDiv() {
+            document.querySelector(".container-promo-img").style.display = 'none';
+
+            setTimeout(showHide, 5000);
+
+            function showHide() {
+                document.querySelector(".container-promo-img").style.display = "block";
+            }
+        }
+    </script>
+@endpush

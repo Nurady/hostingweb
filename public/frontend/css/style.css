@@ -1004,7 +1004,102 @@ input[type=number]:focus,
     text-decoration: none !important;
 }
 
+#banner {
+    position: fixed;
+    z-index: 999;
+    top: 100px;
+    left: 50px;
+    height: 360px;
+    width: 720px;
+    background: #FFF;
+}
+
+#close {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    font-family: Arial, Helvetica;
+    font-size: 14px;
+    color: #000;
+    cursor: pointer;
+    font-weight: bold;
+}
+
 .container-promo-img {
+    position: fixed;
+    z-index: 1500;
+    top: 100px !important;
+    right: 0;
+}
+
+.container-promo {
+    position: relative;
+}
+
+.imgpromo {
+    position: relative;
+    width: 150px;
+    height: 80px;
+    background: #cf3b21 !important;
+    z-index: 3;
+    left: 180px;
+    top: 0;
+}
+
+.imgstoresection {
+    position: relative;
+    width: 200px;
+    height: 100px;
+    z-index: 8;
+    top: 90px;
+}
+
+#promo-sign {
+    position: relative;
+    -webkit-animation: fading 5s infinite;
+    animation: fading 5s infinite;
+}
+
+@keyframes fading {
+    0% { 
+        opacity: 1; 
+    }
+
+    50% { 
+        opacity: 0.5; 
+    }
+
+    100% { 
+        opacity: 0.3; 
+    }
+}
+
+@media (max-width: 576px) { 
+    .testimonial .quote,  .testimonial .quote-profil {
+        width: 100% !important;
+    }
+
+    .commitment .card {
+        text-align: center !important;
+    }
+    
+    .commitment img {
+        justify-content: center !important;
+    }
+
+    .helpdesk .h6home {
+        font-size: clamp(1rem,10vw,1rem);
+        font-weight: 500;
+    }
+
+    .helpdesk .contact-col {
+        padding-top: 0.8rem !important;
+        padding-bottom: 0.8rem !important;
+    }
+}
+
+
+/* .container-promo-img {
     position: absolute;
     top: 550px;
     left: 0 !important;
@@ -1033,30 +1128,6 @@ input[type=number]:focus,
     width: 200px;
     height: 100px;
     z-index: 88;
-}
-
-@media (max-width: 576px) { 
-    .testimonial .quote,  .testimonial .quote-profil {
-        width: 100% !important;
-    }
-
-    .commitment .card {
-        text-align: center !important;
-    }
-    
-    .commitment img {
-        justify-content: center !important;
-    }
-
-    .helpdesk .h6home {
-        font-size: clamp(1rem,10vw,1rem);
-        font-weight: 500;
-    }
-
-    .helpdesk .contact-col {
-        padding-top: 0.8rem !important;
-        padding-bottom: 0.8rem !important;
-    }
-}
+} */
 
 
