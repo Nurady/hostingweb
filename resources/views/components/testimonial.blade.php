@@ -31,17 +31,17 @@
                         Lihat Video Selengkapnya
                     </a>
                     <span>
-                        <img style="height: 20px !important; width: 20px !important;" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/Right.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/Right.webp">
+                        <img style="height: 20px !important; width: 20px !important;" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/Right.webp" alt="Right">
                     </span>
                 </div>                    
             </div>
             <div class="p-2 w-50 quote-profil">
-                <img class="w-100 lazyload" data-src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/photos/testi1.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/photos/testi1.webp">
+                <img class="w-100 lazyload" data-src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/photos/testi1.webp" alt="testi1">
             </div>
         </div>
         <div class="d-flex flex-column flex-md-row flex-xl-row flex-xxl-row align-items-center mb-3">
             <div class="p-2 w-50 quote-profil">
-                <img class="w-100 lazyload" data-src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/photos/testi2.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/photos/testi2.webp">
+                <img class="w-100 lazyload" data-src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/photos/testi2.webp" alt="testi2">
             </div>
             <div class="p-2 w-50 quote">                    
                 <div class="header-quote">
@@ -61,7 +61,7 @@
                         Lihat Video Selengkapnya
                     </a>
                     <span>
-                        <img style="height: 20px !important; width: 20px !important;" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/Right.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/Right.webp">
+                        <img style="height: 20px !important; width: 20px !important;" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/Right.webp" alt="Right">
                     </span>
                 </div>                    
             </div>
@@ -85,12 +85,12 @@
                         Lihat Video Selengkapnya
                     </a>
                     <span>
-                        <img style="height: 20px !important; width: 20px !important;" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/Right.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/Right.webp">
+                        <img style="height: 20px !important; width: 20px !important;" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/Right.webp" alt="Right">
                     </span>
                 </div>                    
             </div>
             <div class="p-2 w-50 quote-profil">
-                <img class="w-100 lazyload" data-src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/photos/testi3.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/photos/testi3.webp">
+                <img class="w-100 lazyload" data-src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/photos/testi3.webp" alt="testi3">
             </div>
         </div>
     </div>

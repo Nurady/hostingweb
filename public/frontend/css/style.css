@@ -911,6 +911,24 @@ select[type="color"]:focus,
     background-color: white !important;
     border-radius: 30px !important;
     border: 1px solid black;
+    cursor: pointer;
+}
+
+.BottomButton_icon__Yjla4 .tooltiptext {
+    visibility: hidden;
+    width: 200px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+    position: absolute;
+    z-index: 1;
+    right: 20px;
+}
+  
+.BottomButton_icon__Yjla4:hover .tooltiptext {
+    visibility: visible;
 }
 
 .faqs h1 span {

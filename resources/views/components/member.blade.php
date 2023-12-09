@@ -7,7 +7,7 @@
             <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                 <div class="team-item border-top border-5 border-primary rounded shadow overflow-hidden">
                     <div class="text-center p-4">
-                        <img class="img-fluid rounded-circle mb-4 lazyload" data-src="{{ asset('frontend/img/team-1.jpg') }}" alt="">
+                        <img class="img-fluid rounded-circle mb-4 lazyload" data-src="{{ asset('frontend/img/team-1.jpg') }}" alt="team-1">
                         <h5 class="fw-bold mb-1">Full Name</h5>
                         <small>Director</small>
                     </div>
@@ -16,7 +16,7 @@
             <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                 <div class="team-item border-top border-5 border-primary rounded shadow overflow-hidden">
                     <div class="text-center p-4">
-                        <img class="img-fluid rounded-circle mb-4 lazyload" data-src="{{ asset('frontend/img/team-2.jpg') }}" alt="">
+                        <img class="img-fluid rounded-circle mb-4 lazyload" data-src="{{ asset('frontend/img/team-2.jpg') }}" alt="team-2">
                         <h5 class="fw-bold mb-1">Full Name</h5>
                         <small>System Analyst</small>
                     </div>
@@ -25,7 +25,7 @@
             <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                 <div class="team-item border-top border-5 border-primary rounded shadow overflow-hidden">
                     <div class="text-center p-4">
-                        <img class="img-fluid rounded-circle mb-4 lazyload" data-src="{{ asset('frontend/img/team-3.jpg') }}" alt="">
+                        <img class="img-fluid rounded-circle mb-4 lazyload" data-src="{{ asset('frontend/img/team-3.jpg') }}" alt="team-3">
                         <h5 class="fw-bold mb-1">Full Name</h5>
                         <small>Full Stack Developer</small>
                     </div>
@@ -34,7 +34,7 @@
             <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
                 <div class="team-item border-top border-5 border-primary rounded shadow overflow-hidden">
                     <div class="text-center p-4">
-                        <img class="img-fluid rounded-circle mb-4 lazyload" data-src="{{ asset('frontend/img/team-4.jpg') }}" alt="">
+                        <img class="img-fluid rounded-circle mb-4 lazyload" data-src="{{ asset('frontend/img/team-4.jpg') }}" alt="team-4">
                         <h5 class="fw-bold mb-1">Full Name</h5>
                         <small>IT Infrastructure</small>
                     </div>

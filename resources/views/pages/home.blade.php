@@ -5,14 +5,14 @@
 @section('content')
     <x-domain/>
 
-    <x-service/>
-    
+    <x-service/> 
+
     <x-other-service/>
 
     <x-solution/>
 
-    <x-commitment/>
-    
+    <x-commitment/>  
+
     <x-iklan/>
 
     <x-pelanggan/>
@@ -24,11 +24,11 @@
     <x-liputan/>
 
     <x-payment/>
-   
+       
     <x-faqs/>
-   
-    <x-bantuan/>
 
+    <x-bantuan/>
+    
     <x-member/>
 @endsection
 

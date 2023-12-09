@@ -7,13 +7,13 @@
         </div>
         <div class="row wow fadeInUp justify-content-center">
             <div class="col mb-2">
-                <img class="w-100 lazyload" data-sizes="auto" data-src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/all-payment.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/all-payment.webp">
+                <img class="w-100 lazyload" data-sizes="auto" data-src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/all-payment.webp" alt="all-payment">
             </div>
         </div>
         <div class="text-center">
             <a class="other" href="https://qwords.com/v2/order-payment/">Lihat Panduan Pembayaran</a>
             <span>
-                <img style="height: 20px !important; width: 20px !important;" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/Right.webp" alt="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/Right.webp">
+                <img style="height: 20px !important; width: 20px !important;" src="https://qwords.com/v2/wp-content/themes/qwords/assets/images/icons/Right.webp" alt="Right">
             </span>
         </div>
     </div>
