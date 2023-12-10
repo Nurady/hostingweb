@@ -1160,6 +1160,13 @@ img.lazyload:not([src]) {
 
 @media (min-width: 1200px) { 
     .navbar-nav .dropdown-menu  {
-        width: 50rem !important;
+        width: 42rem !important;
+    }
+
+    .dropdown:hover .dropdown-menu-lg-end {
+        display: block;
+        margin-top: 0;
+        right: 0;
+        left: auto;
     }
 }
