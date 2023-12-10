@@ -37,11 +37,11 @@
         function hideAndShowDiv() {
             document.querySelector(".container-promo-img").style.display = 'none';
 
-            setTimeout(showHide, 5000);
+            // setTimeout(showHide, 5000);
 
-            function showHide() {
-                document.querySelector(".container-promo-img").style.display = "block";
-            }
+            // function showHide() {
+            //     document.querySelector(".container-promo-img").style.display = "block";
+            // }
         }
     </script>
 
