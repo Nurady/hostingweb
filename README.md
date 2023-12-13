@@ -10,6 +10,7 @@
 - **[Form Register dan Login - epicbootstrap](https://epicbootstrap.com/snippets/registration)**
 - **[CSS Text Animation - sliderrevolution](https://www.sliderrevolution.com/resources/css-text-animation/)**
 - **[CSS Image Promo Animation](https://blog.hubspot.com/website/css-animation-examples/)**
+- **[404 - Not Found](https://dev.to/stackfindover/35-html-404-page-templates-5bge/)**
 
 ## Package/Library
 - Laravel Meta Manager
