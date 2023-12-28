@@ -30,9 +30,10 @@
                                         /tahun
                                     </span>
                                 </h3>
-                                <a class="btn btn-primary px-4 py-2 mt-4 w-100" href="https://qwords.com/v2/secured-sockets-layer-certificate/?_gl=1%2A87kryz%2A_gcl_au%2AMTc1MjQyNTI4MC4xNzAxODQzODA3&_ga=2.2238128.1021700938.1701843808-1812367761.1701843808">
+                                <x-button.button-order class="btn btn-primary px-4 py-2 mt-4 w-100" url="https://qwords.com/v2/secured-sockets-layer-certificate/?_gl=1%2A87kryz%2A_gcl_au%2AMTc1MjQyNTI4MC4xNzAxODQzODA3&_ga=2.2238128.1021700938.1701843808-1812367761.1701843808" title="Pesan Sekarang" />
+                                {{-- <a class="btn btn-primary px-4 py-2 mt-4 w-100" href="https://qwords.com/v2/secured-sockets-layer-certificate/?_gl=1%2A87kryz%2A_gcl_au%2AMTc1MjQyNTI4MC4xNzAxODQzODA3&_ga=2.2238128.1021700938.1701843808-1812367761.1701843808">
                                     Pesan Sekarang
-                                </a>
+                                </a> --}}
                             </div>
                         </div>
                     </div>
@@ -59,9 +60,7 @@
                                         /tahun
                                     </span>
                                 </h3>
-                                <a class="btn btn-primary px-4 py-2 mt-4 w-100" href="https://qwords.com/v2/dedicated-server/dedicated-box/?_gl=1*13zm0s9*_gcl_au*MTc1MjQyNTI4MC4xNzAxODQzODA3&_ga=2.6778802.1021700938.1701843808-1812367761.1701843808">
-                                    Pesan Sekarang
-                                </a>
+                                <x-button.button-order class="btn btn-primary px-4 py-2 mt-4 w-100" url="https://qwords.com/v2/dedicated-server/dedicated-box/?_gl=1*13zm0s9*_gcl_au*MTc1MjQyNTI4MC4xNzAxODQzODA3&_ga=2.6778802.1021700938.1701843808-1812367761.1701843808" title="Pesan Sekarang" />
                             </div>
                         </div>
                     </div>
@@ -88,9 +87,7 @@
                                         /tahun
                                     </span>
                                 </h3>
-                                <a class="btn btn-primary px-4 py-2 mt-4 w-100" href="https://qwords.com/v2/dedicated-server/colocation-server/?_gl=1*13zm0s9*_gcl_au*MTc1MjQyNTI4MC4xNzAxODQzODA3&_ga=2.6778802.1021700938.1701843808-1812367761.1701843808">
-                                    Pesan Sekarang
-                                </a>
+                                <x-button.button-order class="btn btn-primary px-4 py-2 mt-4 w-100" url="https://qwords.com/v2/dedicated-server/colocation-server/?_gl=1*13zm0s9*_gcl_au*MTc1MjQyNTI4MC4xNzAxODQzODA3&_ga=2.6778802.1021700938.1701843808-1812367761.1701843808" title="Pesan Sekarang" />
                             </div>
                         </div>
                     </div>
