@@ -18,9 +18,10 @@
                         <h3 class="mb-3">
                             Rp. 14.500
                         </h3>
-                        <a class="btn btn-primary px-4 py-2" href="https://portal.qwords.com/orderv10/orderhosting?pid=528&billingcycle=annually">
+                        <x-button.button-order url="https://portal.qwords.com/orderv10/orderhosting?pid=528&billingcycle=annually" title="Pesan Sekarang" />
+                        {{-- <a class="btn btn-primary px-4 py-2" href="https://portal.qwords.com/orderv10/orderhosting?pid=528&billingcycle=annually">
                             Pesan Sekarang
-                        </a>
+                        </a> --}}
                     </div>
                     <div class="p-4">
                         <div class="row mb-3 justify-content-between">
@@ -69,9 +70,10 @@
                         <h3 class="mb-3">
                             Rp. 89.900
                         </h3>
-                        <a class="btn btn-primary px-4 py-2" href="https://portal.qwords.com/orderv10/orderhosting?pid=392&billingcycle=&promocode=FRSTTMESGN">
+                        <x-button.button-order url="https://portal.qwords.com/orderv10/orderhosting?pid=392&billingcycle=&promocode=FRSTTMESGN" title="Pesan Sekarang" />
+                        {{-- <a class="btn btn-primary px-4 py-2" href="https://portal.qwords.com/orderv10/orderhosting?pid=392&billingcycle=&promocode=FRSTTMESGN">
                             Pesan Sekarang
-                        </a>
+                        </a> --}}
                     </div>
                     <div class="p-4">
                         <div class="row mb-3 justify-content-between">
@@ -120,9 +122,10 @@
                         <h3 class="mb-3">
                             Rp. 79.000
                         </h3>
-                        <a class="btn btn-primary px-4 py-2" href="https://portal.qwords.com/orderv10/orderhosting?pid=596&billingcycle=annually">
+                        <x-button.button-order url="https://portal.qwords.com/orderv10/orderhosting?pid=596&billingcycle=annually" title="Pesan Sekarang" />
+                        {{-- <a class="btn btn-primary px-4 py-2" href="https://portal.qwords.com/orderv10/orderhosting?pid=596&billingcycle=annually">
                             Pesan Sekarang
-                        </a>
+                        </a> --}}
                     </div>
                     <div class="p-4">
                         <div class="row mb-3 justify-content-between">
@@ -171,9 +174,10 @@
                         <h3 class="mb-3">
                             Rp. 75.000
                         </h3>
-                        <a class="btn btn-primary px-4 py-2" href="https://portal.qwords.com/orderv10/ordervps?pid=634&billingcycle=annually">
+                        <x-button.button-order url="https://portal.qwords.com/orderv10/ordervps?pid=634&billingcycle=annually" title="Pesan Sekarang" />
+                        {{-- <a class="btn btn-primary px-4 py-2" href="https://portal.qwords.com/orderv10/ordervps?pid=634&billingcycle=annually">
                             Pesan Sekarang
-                        </a>
+                        </a> --}}
                     </div>
                     <div class="p-4">
                         <div class="row mb-3 justify-content-between">
