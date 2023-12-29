@@ -13,10 +13,6 @@
                 </h1>
                 <div class="text-center">
                     <x-button.button-order class="btn-hero btn btn-secondary py-sm-3 px-sm-5 me-3 animated slideInLeft" url="https://qwords.com/v2/#featured-card" title="Pesan Sekarang" />
-
-                    {{-- <a href="https://qwords.com/v2/#featured-card" class="btn-hero btn btn-secondary py-sm-3 px-sm-5 me-3 animated slideInLeft">
-                        Pesan Sekarang
-                    </a> --}}
                 </div>
             </div>
             <div class="col-lg-6 text-center">
